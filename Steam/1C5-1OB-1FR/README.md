@@ -1,5 +1,5 @@
 ## FFA map    
-##### by CYPXRISS  
+##### Author: CYPXRISS  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

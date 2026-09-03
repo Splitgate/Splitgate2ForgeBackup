@@ -1,5 +1,5 @@
 ## Call of Duty Terminal    
-##### by ig_viorc  
+##### Author: ig_viorc  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## 1v1 DUEL    
-##### by H3r0ti3  
+##### Author: H3r0ti3  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

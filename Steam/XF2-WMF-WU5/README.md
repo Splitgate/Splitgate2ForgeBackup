@@ -1,5 +1,5 @@
 ## CRAZY TRICKSHOT    
-##### by D13_GLOCKΣ_P1L0T_1945  
+##### Author: D13_GLOCKΣ_P1L0T_1945  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

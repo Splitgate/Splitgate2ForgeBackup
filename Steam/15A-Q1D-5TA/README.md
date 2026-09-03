@@ -1,5 +1,5 @@
 ## SECOND MAP EVER CREATED    
-##### by MrFerretHead  
+##### Author: MrFerretHead  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

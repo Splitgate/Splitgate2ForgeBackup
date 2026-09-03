@@ -1,5 +1,5 @@
 ## Surf Messabout - Cranberry Punch    
-##### by Cranberry_Punch  
+##### Author: Cranberry_Punch  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

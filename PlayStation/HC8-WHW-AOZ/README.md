@@ -1,5 +1,5 @@
 ## The Burnout Destiny 2    
-##### by Weedian_  
+##### Author: Weedian_  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

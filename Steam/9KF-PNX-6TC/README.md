@@ -1,5 +1,5 @@
 ## 1V1    
-##### by St3amyplane  
+##### Author: St3amyplane  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

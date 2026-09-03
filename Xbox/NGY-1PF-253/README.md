@@ -1,5 +1,5 @@
 ## Bionic labs( king of the hill )    
-##### by Killer Shark392  
+##### Author: Killer Shark392  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

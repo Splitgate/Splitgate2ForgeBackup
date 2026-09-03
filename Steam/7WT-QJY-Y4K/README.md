@@ -1,5 +1,5 @@
 ## 射撃訓練    
-##### by yonaguni  
+##### Author: yonaguni  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

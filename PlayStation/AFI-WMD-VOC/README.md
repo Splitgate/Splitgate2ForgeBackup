@@ -1,5 +1,5 @@
 ## New Projectiko0    
-##### by ObamaT00kMyFR-S  
+##### Author: ObamaT00kMyFR-S  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

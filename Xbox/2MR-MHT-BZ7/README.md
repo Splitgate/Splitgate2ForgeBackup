@@ -1,5 +1,5 @@
 ## Nouveau projetZob    
-##### by Nep Nepuuu  
+##### Author: Nep Nepuuu  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

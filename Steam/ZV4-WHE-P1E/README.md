@@ -1,5 +1,5 @@
 ## king of the hill    
-##### by Epic_Narwhal25  
+##### Author: Epic_Narwhal25  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Crypress Grave v1.2    
-##### by pink5110  
+##### Author: pink5110  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

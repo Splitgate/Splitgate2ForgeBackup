@@ -1,5 +1,5 @@
 ## Stellar    
-##### by c0rr0zi0n  
+##### Author: c0rr0zi0n  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

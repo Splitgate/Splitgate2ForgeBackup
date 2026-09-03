@@ -1,5 +1,5 @@
 ## Forest Template 2    
-##### by HunterKiller  
+##### Author: HunterKiller  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

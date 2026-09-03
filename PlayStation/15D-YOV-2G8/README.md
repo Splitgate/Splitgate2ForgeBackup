@@ -1,5 +1,5 @@
 ## Einstein's Island    
-##### by seabass0701  
+##### Author: seabass0701  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

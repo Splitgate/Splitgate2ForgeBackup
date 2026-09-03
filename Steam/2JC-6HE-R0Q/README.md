@@ -1,5 +1,5 @@
 ## TEAM 1V1 DEATHMATCH    
-##### by TTV/SLAVICDADDY64  
+##### Author: TTV/SLAVICDADDY64  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

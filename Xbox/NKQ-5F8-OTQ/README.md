@@ -1,5 +1,5 @@
 ## Dono    
-##### by B1gM0nkz  
+##### Author: B1gM0nkz  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

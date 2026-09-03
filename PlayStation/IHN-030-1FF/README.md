@@ -1,5 +1,5 @@
 ## Dish [koth]    
-##### by Mr_Expendable_10  
+##### Author: Mr_Expendable_10  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

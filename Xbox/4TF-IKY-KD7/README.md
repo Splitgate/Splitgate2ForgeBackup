@@ -1,5 +1,5 @@
 ## Lachlan    
-##### by DangerZone9949  
+##### Author: DangerZone9949  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

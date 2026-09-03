@@ -1,5 +1,5 @@
 ## Secret path way    
-##### by Eagle_Mode_5  
+##### Author: Eagle_Mode_5  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

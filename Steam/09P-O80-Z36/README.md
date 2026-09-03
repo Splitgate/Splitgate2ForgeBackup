@@ -1,5 +1,5 @@
 ## Phill's Bases    
-##### by Phill the noob  
+##### Author: Phill the noob  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Basic BattleZone    
-##### by Garlic--Chicken  
+##### Author: Garlic--Chicken  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

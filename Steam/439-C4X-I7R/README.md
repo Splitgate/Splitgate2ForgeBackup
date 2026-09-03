@@ -1,5 +1,5 @@
 ## New Project 54823784871278489235    
-##### by Ryker_PC  
+##### Author: Ryker_PC  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## yoo    
-##### by Bfr0g  
+##### Author: Bfr0g  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

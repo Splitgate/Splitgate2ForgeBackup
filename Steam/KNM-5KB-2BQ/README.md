@@ -1,5 +1,5 @@
 ## WIP Splitball attack    
-##### by shoes1332  
+##### Author: shoes1332  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

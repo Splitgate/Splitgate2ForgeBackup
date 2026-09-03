@@ -1,5 +1,5 @@
 ## What If U Had A Twin but small 2    
-##### by George Pink Floyd  
+##### Author: George Pink Floyd  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

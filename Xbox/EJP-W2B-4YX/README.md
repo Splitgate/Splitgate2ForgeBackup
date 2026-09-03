@@ -1,5 +1,5 @@
 ## Runners    
-##### by BILBO SENPAI485  
+##### Author: BILBO SENPAI485  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

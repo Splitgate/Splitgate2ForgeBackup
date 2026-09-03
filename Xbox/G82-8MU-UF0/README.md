@@ -1,5 +1,5 @@
 ## New Project    
-##### by SupaSquid 8527  
+##### Author: SupaSquid 8527  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

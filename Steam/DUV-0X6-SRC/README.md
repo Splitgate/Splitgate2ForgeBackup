@@ -1,5 +1,5 @@
 ## best 1v1 open forest map    
-##### by sh4meless  
+##### Author: sh4meless  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

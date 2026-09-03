@@ -1,5 +1,5 @@
 ##  Project bru    
-##### by jaybirdmc910  
+##### Author: jaybirdmc910  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

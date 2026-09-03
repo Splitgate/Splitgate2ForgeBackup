@@ -1,5 +1,5 @@
 ## AREA 13    
-##### by napalmtorch  
+##### Author: napalmtorch  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

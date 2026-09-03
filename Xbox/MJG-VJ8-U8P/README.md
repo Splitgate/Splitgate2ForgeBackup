@@ -1,5 +1,5 @@
 ## 1v1 SPACE JUMP    
-##### by KingSarmayy  
+##### Author: KingSarmayy  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

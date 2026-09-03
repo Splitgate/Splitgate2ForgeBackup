@@ -1,5 +1,5 @@
 ## New Project5ggtgtg    
-##### by That_thing_here1  
+##### Author: That_thing_here1  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

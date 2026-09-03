@@ -1,5 +1,5 @@
 ## Simulation Airtime    
-##### by Sideways84ms  
+##### Author: Sideways84ms  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

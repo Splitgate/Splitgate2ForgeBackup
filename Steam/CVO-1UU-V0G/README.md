@@ -1,5 +1,5 @@
 ## speed snipers+spawns and extras    
-##### by Cef  
+##### Author: Cef  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

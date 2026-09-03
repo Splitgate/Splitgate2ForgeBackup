@@ -1,5 +1,5 @@
 ## Test Chamber 04    
-##### by BezPixelu  
+##### Author: BezPixelu  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

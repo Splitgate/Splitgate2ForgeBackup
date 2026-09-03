@@ -1,5 +1,5 @@
 ## BAD NEWS    
-##### by speedway8073  
+##### Author: speedway8073  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

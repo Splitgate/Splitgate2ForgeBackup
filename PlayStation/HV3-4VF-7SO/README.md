@@ -1,5 +1,5 @@
 ## The Wasteland (WIP)    
-##### by LiamWuzHerelolZ  
+##### Author: LiamWuzHerelolZ  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## SIMULATION - JETA [PAV_02]    
-##### by ProAgressiVe  
+##### Author: ProAgressiVe  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

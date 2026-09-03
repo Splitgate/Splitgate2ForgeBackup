@@ -1,5 +1,5 @@
 ## Elks lava cool map    
-##### by EK_47_Bandit  
+##### Author: EK_47_Bandit  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

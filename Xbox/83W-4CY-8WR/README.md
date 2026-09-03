@@ -1,5 +1,5 @@
 ## Pp    
-##### by bfg1652  
+##### Author: bfg1652  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Infinite portal    
-##### by Tacomanz9211  
+##### Author: Tacomanz9211  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

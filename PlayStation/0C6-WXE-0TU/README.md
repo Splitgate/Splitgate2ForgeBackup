@@ -1,5 +1,5 @@
 ## What you call it bar?    
-##### by SeAz_GaUrDiAn99  
+##### Author: SeAz_GaUrDiAn99  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Naughtys Oasis V2    
-##### by NAVGHTY  
+##### Author: NAVGHTY  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

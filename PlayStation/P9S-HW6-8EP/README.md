@@ -1,5 +1,5 @@
 ## Sky rockin 2.1    
-##### by PK_Munky_D_Luffy  
+##### Author: PK_Munky_D_Luffy  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

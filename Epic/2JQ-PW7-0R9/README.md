@@ -1,5 +1,5 @@
 ## JOHNATHAN    
-##### by sierramist32609  
+##### Author: sierramist32609  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

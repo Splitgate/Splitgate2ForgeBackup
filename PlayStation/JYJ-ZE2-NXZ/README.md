@@ -1,5 +1,5 @@
 ## FORERUNNER1    
-##### by DRAGO-821  
+##### Author: DRAGO-821  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

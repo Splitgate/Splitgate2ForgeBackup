@@ -1,5 +1,5 @@
 ## 1v1    
-##### by sidewinder2079  
+##### Author: sidewinder2079  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

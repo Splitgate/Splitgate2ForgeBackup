@@ -1,5 +1,5 @@
 ## New Project    
-##### by Black ops 4329  
+##### Author: Black ops 4329  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

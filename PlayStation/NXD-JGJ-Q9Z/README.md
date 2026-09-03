@@ -1,5 +1,5 @@
 ## Smash Browl Battlefield    
-##### by IXI_HOXY_IXI  
+##### Author: IXI_HOXY_IXI  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

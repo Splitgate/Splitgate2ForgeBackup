@@ -1,5 +1,5 @@
 ## Portaltown    
-##### by Gun_Slinger31  
+##### Author: Gun_Slinger31  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

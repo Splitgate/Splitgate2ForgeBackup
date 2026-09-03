@@ -1,5 +1,5 @@
 ## Smicheal    
-##### by Dark-raven2013  
+##### Author: Dark-raven2013  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

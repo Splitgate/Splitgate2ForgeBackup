@@ -1,5 +1,5 @@
 ## Rouge WIP    
-##### by manson851114  
+##### Author: manson851114  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

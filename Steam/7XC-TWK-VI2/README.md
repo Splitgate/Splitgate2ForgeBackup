@@ -1,5 +1,5 @@
 ## Sand Mirror's Playground    
-##### by Spinosaurus  
+##### Author: Spinosaurus  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

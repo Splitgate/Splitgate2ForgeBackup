@@ -1,5 +1,5 @@
 ## 1v1    
-##### by scn2  
+##### Author: scn2  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

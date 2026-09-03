@@ -1,5 +1,5 @@
 ## Fav game    
-##### by TheOdd1sOut6655  
+##### Author: TheOdd1sOut6655  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Space fight    
-##### by Jaguar1909906  
+##### Author: Jaguar1909906  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

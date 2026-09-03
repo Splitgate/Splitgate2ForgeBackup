@@ -1,5 +1,5 @@
 ## The Golden Traveler    
-##### by AtomicWolf6921  
+##### Author: AtomicWolf6921  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

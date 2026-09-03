@@ -1,5 +1,5 @@
 ## Rpg XP Farm    
-##### by That_Basic_Boi  
+##### Author: That_Basic_Boi  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

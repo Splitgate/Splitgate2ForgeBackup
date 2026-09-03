@@ -1,5 +1,5 @@
 ## Fall Hazard    
-##### by VR12345678  
+##### Author: VR12345678  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

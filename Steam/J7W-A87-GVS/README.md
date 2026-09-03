@@ -1,5 +1,5 @@
 ## Concrete hill (alpha v0.3)    
-##### by Estiva #fr  
+##### Author: Estiva #fr  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

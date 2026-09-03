@@ -1,5 +1,5 @@
 ## The Longest Yard 2025    
-##### by Holosightz  
+##### Author: Holosightz  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

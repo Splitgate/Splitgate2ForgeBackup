@@ -1,5 +1,5 @@
 ## Black ice Nuke     
-##### by hulk_vs_chkn_lil  
+##### Author: hulk_vs_chkn_lil  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

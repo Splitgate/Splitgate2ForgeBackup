@@ -1,5 +1,5 @@
 ## Urban (CoD AW).beta    
-##### by Axel556 XV  
+##### Author: Axel556 XV  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

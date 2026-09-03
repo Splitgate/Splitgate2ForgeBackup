@@ -1,5 +1,5 @@
 ## Sewer City    
-##### by Quantae-_-39  
+##### Author: Quantae-_-39  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

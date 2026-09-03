@@ -1,5 +1,5 @@
 ## Reeeee    
-##### by dr_oni_hunt  
+##### Author: dr_oni_hunt  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

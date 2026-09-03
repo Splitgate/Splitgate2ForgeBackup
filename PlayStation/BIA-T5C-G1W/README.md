@@ -1,5 +1,5 @@
 ## Yeni Proje    
-##### by oada54  
+##### Author: oada54  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

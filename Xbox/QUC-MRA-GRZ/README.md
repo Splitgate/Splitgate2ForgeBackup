@@ -1,5 +1,5 @@
 ## The maze ver 7    
-##### by outlaw43west  
+##### Author: outlaw43west  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

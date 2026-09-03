@@ -1,5 +1,5 @@
 ## Reactor 0.1 Beta    
-##### by R3FL3xger  
+##### Author: R3FL3xger  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Warm up for most modes    
-##### by BIGFNDuke  
+##### Author: BIGFNDuke  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

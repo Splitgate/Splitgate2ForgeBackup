@@ -1,5 +1,5 @@
 ## the pro coec    
-##### by barbswowaddy  
+##### Author: barbswowaddy  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

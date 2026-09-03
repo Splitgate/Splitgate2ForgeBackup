@@ -1,5 +1,5 @@
 ## First map    
-##### by Adventureman112  
+##### Author: Adventureman112  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

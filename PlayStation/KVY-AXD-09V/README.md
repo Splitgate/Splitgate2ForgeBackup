@@ -1,5 +1,5 @@
 ## U-Zone    
-##### by breadbro10  
+##### Author: breadbro10  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

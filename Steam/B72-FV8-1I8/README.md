@@ -1,5 +1,5 @@
 ## Imaginaportal2000.1    
-##### by gravityrangera12  
+##### Author: gravityrangera12  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

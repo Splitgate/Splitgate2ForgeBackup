@@ -1,5 +1,5 @@
 ## The Core (better koth zones)[WIP    
-##### by ddanel der catgirl destroyer69  
+##### Author: ddanel der catgirl destroyer69  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## 07    
-##### by Magmatica7925  
+##### Author: Magmatica7925  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

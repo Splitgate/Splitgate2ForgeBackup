@@ -1,5 +1,5 @@
 ## Desert TDM 12V12    
-##### by DragonDbAlls  
+##### Author: DragonDbAlls  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

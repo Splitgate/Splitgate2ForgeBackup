@@ -1,5 +1,5 @@
 ## Idk    
-##### by rizardof_oz1024  
+##### Author: rizardof_oz1024  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Why not 45 degrees?    
-##### by Barberbob2  
+##### Author: Barberbob2  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

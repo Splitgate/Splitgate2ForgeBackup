@@ -1,5 +1,5 @@
 ## You were created this way v2    
-##### by adecentpersoyt  
+##### Author: adecentpersoyt  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

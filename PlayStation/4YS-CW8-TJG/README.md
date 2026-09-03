@@ -1,5 +1,5 @@
 ## New Project    
-##### by sporting-tour5  
+##### Author: sporting-tour5  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

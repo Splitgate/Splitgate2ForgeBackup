@@ -1,5 +1,5 @@
 ## Project 1    
-##### by justin  
+##### Author: justin  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

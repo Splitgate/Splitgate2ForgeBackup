@@ -1,5 +1,5 @@
 ## Ruins V2.5    
-##### by bruhlol123456789  
+##### Author: bruhlol123456789  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

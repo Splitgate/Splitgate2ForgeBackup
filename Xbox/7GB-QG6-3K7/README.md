@@ -1,5 +1,5 @@
 ## cup ilene    
-##### by TornadoBF1991  
+##### Author: TornadoBF1991  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

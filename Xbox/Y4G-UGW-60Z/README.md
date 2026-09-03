@@ -1,5 +1,5 @@
 ## SSL Space Station 1.0    
-##### by AlienSharpShoot  
+##### Author: AlienSharpShoot  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

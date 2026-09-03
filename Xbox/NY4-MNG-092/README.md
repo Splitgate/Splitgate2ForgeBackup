@@ -1,5 +1,5 @@
 ## All The Way Up    
-##### by WICKEDCLOWN416  
+##### Author: WICKEDCLOWN416  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

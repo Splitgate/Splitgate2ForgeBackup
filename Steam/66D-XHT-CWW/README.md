@@ -1,5 +1,5 @@
 ## New Project    
-##### by GAMPAD_GANSTER  
+##### Author: GAMPAD_GANSTER  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Night Plaza - JBear    
-##### by xJBearx_TTV  
+##### Author: xJBearx_TTV  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

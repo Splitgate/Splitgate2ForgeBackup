@@ -1,5 +1,5 @@
 ## astroid arena    
-##### by Homelessboi420  
+##### Author: Homelessboi420  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Portal Tower    
-##### by Rakdos3001  
+##### Author: Rakdos3001  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Desert Training Facility    
-##### by haberg1121  
+##### Author: haberg1121  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## The tournament    
-##### by castel20110  
+##### Author: castel20110  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## 1v1    
-##### by DOOM999  
+##### Author: DOOM999  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

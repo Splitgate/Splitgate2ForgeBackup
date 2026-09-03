@@ -1,5 +1,5 @@
 ## Hijacked BO2 [Remade]    
-##### by MXSKEDD  
+##### Author: MXSKEDD  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

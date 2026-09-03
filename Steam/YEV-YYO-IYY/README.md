@@ -1,5 +1,5 @@
 ## my first mini map    
-##### by kaiskite11  
+##### Author: kaiskite11  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

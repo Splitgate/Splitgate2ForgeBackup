@@ -1,5 +1,5 @@
 ## iLand fight    
-##### by gowned-violin21  
+##### Author: gowned-violin21  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

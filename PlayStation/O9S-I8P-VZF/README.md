@@ -1,5 +1,5 @@
 ## Park cor    
-##### by Riley_roo534  
+##### Author: Riley_roo534  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

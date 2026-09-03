@@ -1,5 +1,5 @@
 ## 1v1 map    
-##### by Airwarrior26  
+##### Author: Airwarrior26  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

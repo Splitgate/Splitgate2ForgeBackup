@@ -1,5 +1,5 @@
 ## New Projectsdsf    
-##### by possum gameing  
+##### Author: possum gameing  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

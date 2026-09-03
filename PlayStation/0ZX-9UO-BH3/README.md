@@ -1,5 +1,5 @@
 ## Novo projetocriatividade    
-##### by Thunderbolt_265u  
+##### Author: Thunderbolt_265u  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

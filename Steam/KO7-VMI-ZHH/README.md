@@ -1,5 +1,5 @@
 ## Fox Base    
-##### by Lone_Wolf_4H  
+##### Author: Lone_Wolf_4H  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

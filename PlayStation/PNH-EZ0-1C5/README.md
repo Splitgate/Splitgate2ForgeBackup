@@ -1,5 +1,5 @@
 ## Death Fall    
-##### by Terinicole3_  
+##### Author: Terinicole3_  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Portal haven 0.7    
-##### by TabletopRocket7  
+##### Author: TabletopRocket7  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

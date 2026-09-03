@@ -1,5 +1,5 @@
 ## New Project    
-##### by F1nzzyyy  
+##### Author: F1nzzyyy  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

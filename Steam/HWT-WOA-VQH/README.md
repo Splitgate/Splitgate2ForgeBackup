@@ -1,5 +1,5 @@
 ## Chaos    
-##### by LT. Fuzz Knuckles terra.gg  
+##### Author: LT. Fuzz Knuckles terra.gg  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

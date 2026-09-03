@@ -1,5 +1,5 @@
 ## skeet shooting    
-##### by MOOSE2037  
+##### Author: MOOSE2037  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

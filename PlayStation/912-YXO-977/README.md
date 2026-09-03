@@ -1,5 +1,5 @@
 ## first try at a map    
-##### by PACK-N-HEAT_RICO  
+##### Author: PACK-N-HEAT_RICO  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

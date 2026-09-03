@@ -1,5 +1,5 @@
 ## Bad Time Sim    
-##### by Yulk3188  
+##### Author: Yulk3188  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## ry's royale3    
-##### by Rytheguy_0  
+##### Author: Rytheguy_0  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

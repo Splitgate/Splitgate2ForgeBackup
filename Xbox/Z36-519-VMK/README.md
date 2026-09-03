@@ -1,5 +1,5 @@
 ## Floating Island    
-##### by MojoJoe3098  
+##### Author: MojoJoe3098  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

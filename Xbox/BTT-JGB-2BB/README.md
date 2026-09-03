@@ -1,5 +1,5 @@
 ## COD Shipment Received    
-##### by Trash Kat 7  
+##### Author: Trash Kat 7  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

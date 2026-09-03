@@ -1,5 +1,5 @@
 ## DESERT CANNON [ENDLESS PVP]    
-##### by Minario99  
+##### Author: Minario99  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

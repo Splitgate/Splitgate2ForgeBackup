@@ -1,5 +1,5 @@
 ## tpn the arad    
-##### by mid_ramekin30  
+##### Author: mid_ramekin30  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

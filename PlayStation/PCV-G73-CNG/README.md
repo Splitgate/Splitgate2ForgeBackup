@@ -1,5 +1,5 @@
 ## Duel Islands     
-##### by K1ngCloudN9ne  
+##### Author: K1ngCloudN9ne  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

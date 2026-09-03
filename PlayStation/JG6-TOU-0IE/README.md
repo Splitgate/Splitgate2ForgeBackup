@@ -1,5 +1,5 @@
 ## The box combo    
-##### by ErnestoUzumaki30  
+##### Author: ErnestoUzumaki30  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

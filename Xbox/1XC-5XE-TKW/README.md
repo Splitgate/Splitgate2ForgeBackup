@@ -1,5 +1,5 @@
 ## Small rocky map 1v1    
-##### by Con225  
+##### Author: Con225  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

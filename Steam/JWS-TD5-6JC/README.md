@@ -1,5 +1,5 @@
 ## Small Simulation Garden    
-##### by Ghost Train Guy  
+##### Author: Ghost Train Guy  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

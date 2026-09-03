@@ -1,5 +1,5 @@
 ## l;'kasd,lpw3m,dcopemdfkopwlmdfkw    
-##### by NewagePianist  
+##### Author: NewagePianist  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

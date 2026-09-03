@@ -1,5 +1,5 @@
 ## Neues Projekt    
-##### by GiantMedal3510  
+##### Author: GiantMedal3510  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

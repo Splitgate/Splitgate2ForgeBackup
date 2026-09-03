@@ -1,5 +1,5 @@
 ## Aaaaaaaaaaaaaaaaaa    
-##### by Sandwich_Man_1m  
+##### Author: Sandwich_Man_1m  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Ryan And Zack's Map    
-##### by irl_groot  
+##### Author: irl_groot  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

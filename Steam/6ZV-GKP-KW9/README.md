@@ -1,5 +1,5 @@
 ## Split Gulch WIP    
-##### by Shwiggity_Shwagg  
+##### Author: Shwiggity_Shwagg  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

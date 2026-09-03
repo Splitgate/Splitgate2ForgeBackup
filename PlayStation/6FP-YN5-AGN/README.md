@@ -1,5 +1,5 @@
 ## Happy 4    
-##### by Rbba_36  
+##### Author: Rbba_36  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

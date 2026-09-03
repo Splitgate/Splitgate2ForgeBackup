@@ -1,5 +1,5 @@
 ## Pok-ta-pok (Version 1.3)    
-##### by Grim Graham  
+##### Author: Grim Graham  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

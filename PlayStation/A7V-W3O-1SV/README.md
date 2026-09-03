@@ -1,5 +1,5 @@
 ## 1    
-##### by Dogo_argentino97  
+##### Author: Dogo_argentino97  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

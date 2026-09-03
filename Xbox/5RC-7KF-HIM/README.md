@@ -1,5 +1,5 @@
 ## ProjectFractureV1    
-##### by G2bob XV  
+##### Author: G2bob XV  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

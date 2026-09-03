@@ -1,5 +1,5 @@
 ## Portal Mayhem - FFADM    
-##### by Wobboy0593  
+##### Author: Wobboy0593  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

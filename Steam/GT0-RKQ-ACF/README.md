@@ -1,5 +1,5 @@
 ## Portal Practice 1- LittleBubbelz    
-##### by LittleBubbelz  
+##### Author: LittleBubbelz  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

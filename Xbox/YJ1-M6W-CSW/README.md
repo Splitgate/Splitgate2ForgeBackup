@@ -1,5 +1,5 @@
 ## Dessert Map    
-##### by xad4416  
+##### Author: xad4416  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

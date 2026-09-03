@@ -1,5 +1,5 @@
 ## 1v1 FROGGY    
-##### by terrormeats  
+##### Author: terrormeats  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Novo projeto    
-##### by Craudet5743  
+##### Author: Craudet5743  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

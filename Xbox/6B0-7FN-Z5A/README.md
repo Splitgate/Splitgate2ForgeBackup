@@ -1,5 +1,5 @@
 ## L'arbre V.2    
-##### by Chester2833  
+##### Author: Chester2833  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

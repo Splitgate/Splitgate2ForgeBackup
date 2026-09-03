@@ -1,5 +1,5 @@
 ## 1v1v1v1 movement     
-##### by 3mployed  
+##### Author: 3mployed  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

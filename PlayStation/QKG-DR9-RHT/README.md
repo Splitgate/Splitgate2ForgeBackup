@@ -1,5 +1,5 @@
 ## 新项目sdr    
-##### by wawe-001  
+##### Author: wawe-001  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

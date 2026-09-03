@@ -1,5 +1,5 @@
 ## Shipment(WIP)    
-##### by Wu1frick  
+##### Author: Wu1frick  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

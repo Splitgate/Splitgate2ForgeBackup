@@ -1,5 +1,5 @@
 ## Ragdoll    
-##### by matthewalbright7  
+##### Author: matthewalbright7  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

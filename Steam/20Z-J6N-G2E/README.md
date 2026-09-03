@@ -1,5 +1,5 @@
 ## Try Me(Fixed)    
-##### by Saturn48  
+##### Author: Saturn48  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

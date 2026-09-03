@@ -1,5 +1,5 @@
 ## Lockout - Halo2 ver_1.2    
-##### by 1NDRA  
+##### Author: 1NDRA  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

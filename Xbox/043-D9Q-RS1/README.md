@@ -1,5 +1,5 @@
 ## Helium-3    
-##### by TKP Brandon  
+##### Author: TKP Brandon  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

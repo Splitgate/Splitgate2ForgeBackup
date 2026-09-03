@@ -1,5 +1,5 @@
 ## New Project2    
-##### by K_G3t_Dubs  
+##### Author: K_G3t_Dubs  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## arin    
-##### by Apex_Dia2 :p  
+##### Author: Apex_Dia2 :p  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

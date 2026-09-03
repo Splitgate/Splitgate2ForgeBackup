@@ -1,5 +1,5 @@
 ## SHIPMENT 3.0    
-##### by 1XGhostyǃ  
+##### Author: 1XGhostyǃ  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

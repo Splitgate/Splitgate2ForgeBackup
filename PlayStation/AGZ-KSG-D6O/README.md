@@ -1,5 +1,5 @@
 ## Parkour / escape    
-##### by Gibbo-TRX  
+##### Author: Gibbo-TRX  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

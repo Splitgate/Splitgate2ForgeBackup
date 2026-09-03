@@ -1,5 +1,5 @@
 ## Bruh    
-##### by marital_carp01  
+##### Author: marital_carp01  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

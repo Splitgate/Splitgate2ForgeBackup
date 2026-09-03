@@ -1,5 +1,5 @@
 ## Willow woncer    
-##### by PhantomNinja514  
+##### Author: PhantomNinja514  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

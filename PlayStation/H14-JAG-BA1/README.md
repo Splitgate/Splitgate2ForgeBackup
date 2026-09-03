@@ -1,5 +1,5 @@
 ## F8    
-##### by funnells_  
+##### Author: funnells_  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

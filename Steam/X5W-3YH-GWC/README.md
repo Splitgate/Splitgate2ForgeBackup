@@ -1,5 +1,5 @@
 ## race test 1    
-##### by blue  
+##### Author: blue  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

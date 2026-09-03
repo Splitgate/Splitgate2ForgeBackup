@@ -1,5 +1,5 @@
 ## SPLIT BALLIN'!!!!    
-##### by HER0 VEL0CITY  
+##### Author: HER0 VEL0CITY  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

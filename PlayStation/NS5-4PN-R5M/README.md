@@ -1,5 +1,5 @@
 ## Simulation Template    
-##### by KEV5114  
+##### Author: KEV5114  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Novaelis Station    
-##### by H0l1ough  
+##### Author: H0l1ough  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

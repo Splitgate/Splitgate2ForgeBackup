@@ -1,5 +1,5 @@
 ## New Project    
-##### by TreyK123456  
+##### Author: TreyK123456  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

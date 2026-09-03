@@ -1,5 +1,5 @@
 ## New Project    
-##### by stern_sword8  
+##### Author: stern_sword8  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

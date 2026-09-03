@@ -1,5 +1,5 @@
 ## PB_Template01    
-##### by P0ke  
+##### Author: P0ke  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

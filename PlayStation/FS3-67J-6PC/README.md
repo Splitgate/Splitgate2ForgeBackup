@@ -1,5 +1,5 @@
 ## 1v1    
-##### by TMB_PAG1300  
+##### Author: TMB_PAG1300  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

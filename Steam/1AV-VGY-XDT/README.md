@@ -1,5 +1,5 @@
 ##  SIMULATION TOWER (FFA / MAX 13)    
-##### by cocaine  
+##### Author: cocaine  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

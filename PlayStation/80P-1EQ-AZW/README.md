@@ -1,5 +1,5 @@
 ## New Project    
-##### by yayo62bz  
+##### Author: yayo62bz  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Islands    
-##### by SpaceCowboy1326  
+##### Author: SpaceCowboy1326  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

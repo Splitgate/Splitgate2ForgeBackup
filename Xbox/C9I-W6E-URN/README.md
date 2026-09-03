@@ -1,5 +1,5 @@
 ## New Project    
-##### by Boom Boy Joe  
+##### Author: Boom Boy Joe  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

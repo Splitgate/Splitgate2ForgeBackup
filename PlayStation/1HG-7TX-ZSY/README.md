@@ -1,5 +1,5 @@
 ## مشروع جديد67    
-##### by azsrwmk_566  
+##### Author: azsrwmk_566  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

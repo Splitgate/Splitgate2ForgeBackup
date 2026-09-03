@@ -1,5 +1,5 @@
 ## fy_pool_day    
-##### by 1047 butt  
+##### Author: 1047 butt  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

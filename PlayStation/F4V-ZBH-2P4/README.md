@@ -1,5 +1,5 @@
 ## New Projecting with Roman Ripley    
-##### by MarioDino14  
+##### Author: MarioDino14  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

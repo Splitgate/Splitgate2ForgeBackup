@@ -1,5 +1,5 @@
 ## The dilly    
-##### by veno_267  
+##### Author: veno_267  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

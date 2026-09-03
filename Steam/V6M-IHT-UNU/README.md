@@ -1,5 +1,5 @@
 ## BACK ROOMS    
-##### by D4nnyB0y21  
+##### Author: D4nnyB0y21  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

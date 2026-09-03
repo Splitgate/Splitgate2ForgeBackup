@@ -1,5 +1,5 @@
 ## 1v1 arena $2000$ fixed    
-##### by 𝕶𝕻𝕬𝕮𝖀𝕭𝕺  
+##### Author: 𝕶𝕻𝕬𝕮𝖀𝕭𝕺  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

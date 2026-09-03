@@ -1,5 +1,5 @@
 ## New Project    
-##### by 回線弱者のジャパ  
+##### Author: 回線弱者のジャパ  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

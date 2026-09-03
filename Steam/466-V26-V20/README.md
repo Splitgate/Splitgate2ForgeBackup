@@ -1,5 +1,5 @@
 ##            Urban Flora (updated)    
-##### by JΣ11YΔ+!  
+##### Author: JΣ11YΔ+!  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

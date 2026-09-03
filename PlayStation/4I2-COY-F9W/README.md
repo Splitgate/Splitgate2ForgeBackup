@@ -1,5 +1,5 @@
 ## Play if Bored    
-##### by gerus_a_capi5  
+##### Author: gerus_a_capi5  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

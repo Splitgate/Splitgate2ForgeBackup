@@ -1,5 +1,5 @@
 ## New Project    
-##### by Alibaba2018_  
+##### Author: Alibaba2018_  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## New Project (Copy)    
-##### by jonaha2010  
+##### Author: jonaha2010  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Crateful.1.0.    
-##### by mrflynn1988  
+##### Author: mrflynn1988  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

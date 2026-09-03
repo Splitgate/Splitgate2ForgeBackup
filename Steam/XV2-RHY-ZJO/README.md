@@ -1,5 +1,5 @@
 ## TF2 Circle Map innit bruv    
-##### by jolly wiener butt tf2  
+##### Author: jolly wiener butt tf2  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

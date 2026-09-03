@@ -1,5 +1,5 @@
 ## 新项目    
-##### by 我卡卡卡  
+##### Author: 我卡卡卡  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Sky-high Rifts v1.0    
-##### by west  
+##### Author: west  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

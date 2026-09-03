@@ -1,5 +1,5 @@
 ## SPlitgate 2v2 map selfmade    
-##### by Erzengel Gabriel✨軸  
+##### Author: Erzengel Gabriel✨軸  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

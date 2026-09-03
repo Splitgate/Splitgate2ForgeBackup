@@ -1,5 +1,5 @@
 ## Wold eksperement 459    
-##### by NickAlex2015  
+##### Author: NickAlex2015  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

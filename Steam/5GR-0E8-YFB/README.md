@@ -1,5 +1,5 @@
 ## Sniper    
-##### by K3NII0  
+##### Author: K3NII0  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## world war 3    
-##### by dubblekick2001  
+##### Author: dubblekick2001  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

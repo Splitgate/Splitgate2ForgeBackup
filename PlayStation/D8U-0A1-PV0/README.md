@@ -1,5 +1,5 @@
 ## New Project    
-##### by tomoruton1123  
+##### Author: tomoruton1123  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

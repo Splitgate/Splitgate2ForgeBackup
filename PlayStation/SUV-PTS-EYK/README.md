@@ -1,5 +1,5 @@
 ## 14326    
-##### by bigbsa210sa  
+##### Author: bigbsa210sa  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

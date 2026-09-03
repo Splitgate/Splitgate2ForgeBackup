@@ -1,5 +1,5 @@
 ## New Project1V1    
-##### by Timso_gg  
+##### Author: Timso_gg  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

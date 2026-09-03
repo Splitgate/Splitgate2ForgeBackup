@@ -1,5 +1,5 @@
 ## De best evr    
-##### by super_capg_316  
+##### Author: super_capg_316  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

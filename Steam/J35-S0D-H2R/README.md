@@ -1,5 +1,5 @@
 ## Uranus Sky 2.0    
-##### by Gary Busey  
+##### Author: Gary Busey  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

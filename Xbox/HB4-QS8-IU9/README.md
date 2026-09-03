@@ -1,5 +1,5 @@
 ## Space jam    
-##### by AmongUs899548  
+##### Author: AmongUs899548  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## only up    
-##### by Sam1_gamer876  
+##### Author: Sam1_gamer876  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

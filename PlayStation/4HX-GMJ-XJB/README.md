@@ -1,5 +1,5 @@
 ## ZZ-SHIKI_03    
-##### by ZZ-SHIKI_03  
+##### Author: ZZ-SHIKI_03  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Espaço cideral    
-##### by MarioSonicP  
+##### Author: MarioSonicP  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

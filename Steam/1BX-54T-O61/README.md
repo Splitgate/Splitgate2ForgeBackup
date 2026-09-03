@@ -1,5 +1,5 @@
 ## Test (V0.0.9)    
-##### by CoderGamer  
+##### Author: CoderGamer  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

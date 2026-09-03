@@ -1,5 +1,5 @@
 ## Shuttle shakedown    
-##### by D3F4ULT512  
+##### Author: D3F4ULT512  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

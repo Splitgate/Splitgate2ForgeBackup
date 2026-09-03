@@ -1,5 +1,5 @@
 ## New ProjeKUIO    
-##### by Firebomb16  
+##### Author: Firebomb16  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

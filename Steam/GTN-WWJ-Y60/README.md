@@ -1,5 +1,5 @@
 ## New Project    
-##### by Charife_Mkc  
+##### Author: Charife_Mkc  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

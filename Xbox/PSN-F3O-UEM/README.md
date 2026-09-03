@@ -1,5 +1,5 @@
 ## Dog Fight :: The Void    
-##### by CountSwagula129  
+##### Author: CountSwagula129  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

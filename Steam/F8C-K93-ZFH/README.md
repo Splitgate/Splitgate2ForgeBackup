@@ -1,5 +1,5 @@
 ## Block Fort N64    
-##### by Perryn ペリン  
+##### Author: Perryn ペリン  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

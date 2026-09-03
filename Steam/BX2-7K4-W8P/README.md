@@ -1,5 +1,5 @@
 ## FFA SYMETRIC    
-##### by GIMP IMP  
+##### Author: GIMP IMP  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## 123456789 10    
-##### by ellie.mann2019  
+##### Author: ellie.mann2019  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

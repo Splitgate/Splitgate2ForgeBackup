@@ -1,5 +1,5 @@
 ## Splitgate-Face-V0.2    
-##### by ☢ NCC24656 凸 (◣_◢) 凸 ☢  
+##### Author: ☢ NCC24656 凸 (◣_◢) 凸 ☢  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

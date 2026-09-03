@@ -1,5 +1,5 @@
 ## Tower Trade    
-##### by WolfDragon12563  
+##### Author: WolfDragon12563  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

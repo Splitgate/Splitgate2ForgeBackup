@@ -1,5 +1,5 @@
 ## The Ultra Split Dome (Completed)    
-##### by THICCnSALTY5556  
+##### Author: THICCnSALTY5556  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

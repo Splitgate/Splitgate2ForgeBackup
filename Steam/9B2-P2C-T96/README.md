@@ -1,5 +1,5 @@
 ## BEtA FORT    
-##### by Scorpion_builder  
+##### Author: Scorpion_builder  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

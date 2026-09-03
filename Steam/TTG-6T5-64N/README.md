@@ -1,5 +1,5 @@
 ## FOREGON DESTRUCTION REMAKE    
-##### by drop1083  
+##### Author: drop1083  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

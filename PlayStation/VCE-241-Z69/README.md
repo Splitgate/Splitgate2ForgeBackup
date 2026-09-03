@@ -1,5 +1,5 @@
 ## Bestbee    
-##### by mike_the_new_opp  
+##### Author: mike_the_new_opp  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

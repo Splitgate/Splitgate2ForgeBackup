@@ -1,5 +1,5 @@
 ## The Forest Island    
-##### by poesia_musica5  
+##### Author: poesia_musica5  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## PORTAL ME (PROTOL) V2    
-##### by jolly_RED_giant_  
+##### Author: jolly_RED_giant_  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

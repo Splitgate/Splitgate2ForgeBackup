@@ -1,5 +1,5 @@
 ## sawdog's super portal practice    
-##### by sawdog  
+##### Author: sawdog  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

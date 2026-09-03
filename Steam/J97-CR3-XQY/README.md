@@ -1,5 +1,5 @@
 ## friends    
-##### by Screenager 6,7  
+##### Author: Screenager 6,7  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

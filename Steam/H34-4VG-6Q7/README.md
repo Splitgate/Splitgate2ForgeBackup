@@ -1,5 +1,5 @@
 ## Scraper (Playtest Ver. 1)    
-##### by Frostfire204  
+##### Author: Frostfire204  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

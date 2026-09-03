@@ -1,5 +1,5 @@
 ## Canyon ffa v0.1    
-##### by HumanOnTheMoon  
+##### Author: HumanOnTheMoon  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

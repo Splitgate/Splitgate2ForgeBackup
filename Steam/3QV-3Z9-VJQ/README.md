@@ -1,5 +1,5 @@
 ##               Dome (COD WAW)(v2)    
-##### by grifdays  
+##### Author: grifdays  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Funny map glitch    
-##### by ReGlitchedd | Twitch  
+##### Author: ReGlitchedd | Twitch  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

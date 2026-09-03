@@ -1,5 +1,5 @@
 ## CASABLANCA:new World    
-##### by NicolasYasmin  
+##### Author: NicolasYasmin  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

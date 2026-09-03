@@ -1,5 +1,5 @@
 ## Club Silo Remake [2.0] SG1    
-##### by ahayayeeti  
+##### Author: ahayayeeti  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

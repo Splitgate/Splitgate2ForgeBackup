@@ -1,5 +1,5 @@
 ## The Good Doctor (WIP Blockout)    
-##### by Experia888  
+##### Author: Experia888  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## 1v1 Island    
-##### by gordan ramsay (i can't cook)  
+##### Author: gordan ramsay (i can't cook)  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Portal chaos    
-##### by II16Il  
+##### Author: II16Il  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## L1GH7H0U53    
-##### by eilerpino98  
+##### Author: eilerpino98  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

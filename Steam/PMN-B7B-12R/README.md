@@ -1,5 +1,5 @@
 ## Griff Cracker  v.1.2 (Test)11    
-##### by [bot] iiSUSPEKTii  
+##### Author: [bot] iiSUSPEKTii  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

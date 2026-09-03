@@ -1,5 +1,5 @@
 ## Split Fort Plaza 64    
-##### by xXJazDTenchi007X  
+##### Author: xXJazDTenchi007X  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

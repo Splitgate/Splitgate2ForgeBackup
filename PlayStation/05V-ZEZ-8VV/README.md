@@ -1,5 +1,5 @@
 ## New Project    
-##### by Ooku1004  
+##### Author: Ooku1004  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

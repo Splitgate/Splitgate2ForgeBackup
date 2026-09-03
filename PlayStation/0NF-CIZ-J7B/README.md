@@ -1,5 +1,5 @@
 ## Lava map    
-##### by boggsie67  
+##### Author: boggsie67  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

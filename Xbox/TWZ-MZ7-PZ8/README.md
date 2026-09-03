@@ -1,5 +1,5 @@
 ## Satellite v1.1    
-##### by Sk1tL35  
+##### Author: Sk1tL35  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Vs    
-##### by ShadowMan1421  
+##### Author: ShadowMan1421  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

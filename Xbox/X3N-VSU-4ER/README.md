@@ -1,5 +1,5 @@
 ## kirtts 9     
-##### by Pacheco582108  
+##### Author: Pacheco582108  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Lost in a inland    
-##### by dashing_den30  
+##### Author: dashing_den30  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

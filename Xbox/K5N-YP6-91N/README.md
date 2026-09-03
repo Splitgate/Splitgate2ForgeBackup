@@ -1,5 +1,5 @@
 ## Pit v1    
-##### by magicm15  
+##### Author: magicm15  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

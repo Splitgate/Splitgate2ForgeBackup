@@ -1,5 +1,5 @@
 ## Arena 2    
-##### by dyl  
+##### Author: dyl  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

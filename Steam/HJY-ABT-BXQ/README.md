@@ -1,5 +1,5 @@
 ## TF2 HighTower    
-##### by The_Quartz_Scar  
+##### Author: The_Quartz_Scar  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

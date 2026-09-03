@@ -1,5 +1,5 @@
 ## The Pit Reimagined (Halo 3)    
-##### by JayWeezey Games  
+##### Author: JayWeezey Games  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

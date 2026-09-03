@@ -1,5 +1,5 @@
 ## AAAAAAAAAAAAAAAAAAHHHHHHHHHH!!!!    
-##### by core gundam (f2p)  
+##### Author: core gundam (f2p)  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

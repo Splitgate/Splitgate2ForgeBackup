@@ -1,5 +1,5 @@
 ## Meridian Prime: Darker Matters    
-##### by Mord  
+##### Author: Mord  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

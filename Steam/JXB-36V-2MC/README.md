@@ -1,5 +1,5 @@
 ## TEAMDUMPSTERFIRE - SHIPGATE2    
-##### by Pra3T0RiaN  
+##### Author: Pra3T0RiaN  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

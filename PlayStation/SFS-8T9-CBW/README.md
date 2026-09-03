@@ -1,5 +1,5 @@
 ## One of the first maps made    
-##### by Jade_Eyes422  
+##### Author: Jade_Eyes422  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

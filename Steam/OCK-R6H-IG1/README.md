@@ -1,5 +1,5 @@
 ## Ges    
-##### by 1047 NEXT STAGE  
+##### Author: 1047 NEXT STAGE  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

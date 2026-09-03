@@ -1,5 +1,5 @@
 ## Ts    
-##### by X-7B7R  
+##### Author: X-7B7R  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

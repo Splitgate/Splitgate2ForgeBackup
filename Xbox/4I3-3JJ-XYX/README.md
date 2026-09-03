@@ -1,5 +1,5 @@
 ## Frozen Arena V2    
-##### by DexRex109  
+##### Author: DexRex109  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

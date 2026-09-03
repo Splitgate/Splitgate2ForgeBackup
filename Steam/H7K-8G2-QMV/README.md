@@ -1,5 +1,5 @@
 ## 新しいプロジェクト    
-##### by nikoniko4020  
+##### Author: nikoniko4020  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

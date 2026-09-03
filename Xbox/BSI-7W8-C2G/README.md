@@ -1,5 +1,5 @@
 ## Floating forest    
-##### by TTV Astro2286  
+##### Author: TTV Astro2286  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

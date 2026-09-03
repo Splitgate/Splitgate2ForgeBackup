@@ -1,5 +1,5 @@
 ## New Project    
-##### by wetsox13579  
+##### Author: wetsox13579  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

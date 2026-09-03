@@ -1,5 +1,5 @@
 ## New Project    
-##### by QuickSnipe12931  
+##### Author: QuickSnipe12931  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

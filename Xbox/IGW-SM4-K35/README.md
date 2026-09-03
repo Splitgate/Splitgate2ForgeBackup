@@ -1,5 +1,5 @@
 ## Novo projeto    
-##### by PAUL1NHO BR  
+##### Author: PAUL1NHO BR  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

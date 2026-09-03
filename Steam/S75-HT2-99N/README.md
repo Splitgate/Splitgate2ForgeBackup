@@ -1,5 +1,5 @@
 ## WIP Simulation Progress Is Comin    
-##### by itzquick14  
+##### Author: itzquick14  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Halo Octagon    
-##### by Lolololol6228  
+##### Author: Lolololol6228  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

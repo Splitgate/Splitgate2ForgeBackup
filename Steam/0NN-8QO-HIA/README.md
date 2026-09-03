@@ -1,5 +1,5 @@
 ## PROJECT:DRIFTBALL - CIRCUIT V1.5    
-##### by Robbin Woods  
+##### Author: Robbin Woods  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

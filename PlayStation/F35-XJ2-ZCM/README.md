@@ -1,5 +1,5 @@
 ## 3028: World At War    
-##### by E3thanRul3z  
+##### Author: E3thanRul3z  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

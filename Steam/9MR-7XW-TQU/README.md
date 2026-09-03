@@ -1,5 +1,5 @@
 ## Snipehouse 24/7    
-##### by Iker3329_  
+##### Author: Iker3329_  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

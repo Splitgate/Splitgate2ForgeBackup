@@ -1,5 +1,5 @@
 ## portals everywhere    
-##### by Ramfam2001  
+##### Author: Ramfam2001  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

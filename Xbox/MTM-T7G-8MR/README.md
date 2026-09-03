@@ -1,5 +1,5 @@
 ## MGM 2.0    
-##### by Nescio3000  
+##### Author: Nescio3000  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

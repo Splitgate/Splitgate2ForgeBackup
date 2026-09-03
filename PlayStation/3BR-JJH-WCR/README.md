@@ -1,5 +1,5 @@
 ## Nuketown    
-##### by Sourlemon12777  
+##### Author: Sourlemon12777  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

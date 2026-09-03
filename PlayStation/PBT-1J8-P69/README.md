@@ -1,5 +1,5 @@
 ## New Project    
-##### by Astro_Bot_212345  
+##### Author: Astro_Bot_212345  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## New Project    
-##### by missshapen_circle  
+##### Author: missshapen_circle  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

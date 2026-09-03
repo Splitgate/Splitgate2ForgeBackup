@@ -1,5 +1,5 @@
 ## Split-Basketball v2    
-##### by S K E E T  
+##### Author: S K E E T  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

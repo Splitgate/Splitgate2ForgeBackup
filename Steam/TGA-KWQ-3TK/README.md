@@ -1,5 +1,5 @@
 ## Flight 101    
-##### by joeandhank  
+##### Author: joeandhank  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

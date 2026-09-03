@@ -1,5 +1,5 @@
 ## 4 biome domination    
-##### by sdonald1985  
+##### Author: sdonald1985  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

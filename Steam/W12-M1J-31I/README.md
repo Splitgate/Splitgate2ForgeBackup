@@ -1,5 +1,5 @@
 ## orbital v1    
-##### by [Bot] GodLikeNOOB  
+##### Author: [Bot] GodLikeNOOB  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

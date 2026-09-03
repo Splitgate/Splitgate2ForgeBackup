@@ -1,5 +1,5 @@
 ## XXX    
-##### by SepiaBench8866  
+##### Author: SepiaBench8866  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

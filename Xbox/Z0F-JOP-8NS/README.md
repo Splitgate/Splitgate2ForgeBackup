@@ -1,5 +1,5 @@
 ## open portals    
-##### by Ghost game9232  
+##### Author: Ghost game9232  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

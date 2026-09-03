@@ -1,5 +1,5 @@
 ## New Project    
-##### by Ajamesh2016  
+##### Author: Ajamesh2016  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

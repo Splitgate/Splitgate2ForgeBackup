@@ -1,5 +1,5 @@
 ## Portal kill testing V3    
-##### by Shelbwy  
+##### Author: Shelbwy  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

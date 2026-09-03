@@ -1,5 +1,5 @@
 ## Johns map    
-##### by much_puzzle71  
+##### Author: much_puzzle71  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

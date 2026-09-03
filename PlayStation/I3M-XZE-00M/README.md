@@ -1,5 +1,5 @@
 ## Free    
-##### by Monkey_Biz16  
+##### Author: Monkey_Biz16  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

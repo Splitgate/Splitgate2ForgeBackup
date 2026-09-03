@@ -1,5 +1,5 @@
 ## Fancihotel V1    
-##### by OneSec_Tree  
+##### Author: OneSec_Tree  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

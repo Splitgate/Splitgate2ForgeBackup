@@ -1,5 +1,5 @@
 ## 1v1v1v1 & 1v1 & 1v1v1    
-##### by toolman101668  
+##### Author: toolman101668  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

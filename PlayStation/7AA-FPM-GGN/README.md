@@ -1,5 +1,5 @@
 ## #1 Slide Racing    
-##### by TwistedLink08  
+##### Author: TwistedLink08  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

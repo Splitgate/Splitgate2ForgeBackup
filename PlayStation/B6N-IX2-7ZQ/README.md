@@ -1,5 +1,5 @@
 ## Ben ben    
-##### by Po-Ta-To_Master  
+##### Author: Po-Ta-To_Master  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

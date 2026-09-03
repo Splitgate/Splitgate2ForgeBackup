@@ -1,5 +1,5 @@
 ## Dam that sounds great    
-##### by xReDZoMbIex7685  
+##### Author: xReDZoMbIex7685  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

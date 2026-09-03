@@ -1,5 +1,5 @@
 ## 新项目    
-##### by 3169683891  
+##### Author: 3169683891  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

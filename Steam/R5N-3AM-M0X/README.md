@@ -1,5 +1,5 @@
 ## Arena Fracture 4v4    
-##### by Tek_vnv  
+##### Author: Tek_vnv  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

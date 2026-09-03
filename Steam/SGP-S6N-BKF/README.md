@@ -1,5 +1,5 @@
 ## la espera    
-##### by oscarelizondo59  
+##### Author: oscarelizondo59  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

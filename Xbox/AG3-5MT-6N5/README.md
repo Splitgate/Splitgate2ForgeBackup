@@ -1,5 +1,5 @@
 ## Space program     
-##### by Skullman5992  
+##### Author: Skullman5992  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

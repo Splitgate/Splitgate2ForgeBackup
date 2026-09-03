@@ -1,5 +1,5 @@
 ## give 5 star pls im a 5 star man    
-##### by Caw  
+##### Author: Caw  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

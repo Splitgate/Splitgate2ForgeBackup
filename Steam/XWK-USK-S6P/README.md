@@ -1,5 +1,5 @@
 ## New Project    
-##### by 后入大王  
+##### Author: 后入大王  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

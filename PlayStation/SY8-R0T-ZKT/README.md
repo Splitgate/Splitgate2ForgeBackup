@@ -1,5 +1,5 @@
 ## TRISTAN IST EIN BOT    
-##### by sigmaBoyD4nny  
+##### Author: sigmaBoyD4nny  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

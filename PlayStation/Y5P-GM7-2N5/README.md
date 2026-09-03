@@ -1,5 +1,5 @@
 ## 5v5    
-##### by solo_noan09  
+##### Author: solo_noan09  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

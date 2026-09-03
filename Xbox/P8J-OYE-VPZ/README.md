@@ -1,5 +1,5 @@
 ## Cool map    
-##### by Mclovin2693101  
+##### Author: Mclovin2693101  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

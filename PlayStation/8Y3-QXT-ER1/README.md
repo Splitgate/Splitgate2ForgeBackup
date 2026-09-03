@@ -1,5 +1,5 @@
 ## 新專案    
-##### by jerryWDM  
+##### Author: jerryWDM  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

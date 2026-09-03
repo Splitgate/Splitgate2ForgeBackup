@@ -1,5 +1,5 @@
 ## de_dustII (ALPHA V0.1)    
-##### by Sch3ffY  
+##### Author: Sch3ffY  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

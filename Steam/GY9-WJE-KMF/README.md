@@ -1,5 +1,5 @@
 ## Quake longest yard TEST    
-##### by Crippling Meme Addict  
+##### Author: Crippling Meme Addict  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

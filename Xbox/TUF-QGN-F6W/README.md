@@ -1,5 +1,5 @@
 ## Doom E1M1 v0.1    
-##### by texMT  
+##### Author: texMT  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

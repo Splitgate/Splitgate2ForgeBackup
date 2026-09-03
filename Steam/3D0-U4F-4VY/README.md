@@ -1,5 +1,5 @@
 ## MEGA (prototype)    
-##### by XDanfr ᵀᵀⱽ  
+##### Author: XDanfr ᵀᵀⱽ  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

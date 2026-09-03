@@ -1,5 +1,5 @@
 ## TUPW2T's 1v1 Arena    
-##### by KlogKlamp  
+##### Author: KlogKlamp  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

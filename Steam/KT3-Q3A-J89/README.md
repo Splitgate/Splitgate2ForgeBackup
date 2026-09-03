@@ -1,5 +1,5 @@
 ## New Project    
-##### by b@sketb@llkid14  
+##### Author: b@sketb@llkid14  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## FY_ICY2    
-##### by Dream Particle  
+##### Author: Dream Particle  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

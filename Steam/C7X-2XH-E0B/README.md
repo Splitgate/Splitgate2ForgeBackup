@@ -1,5 +1,5 @@
 ## Red V Blue v0.5    
-##### by /SIXLRR  
+##### Author: /SIXLRR  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

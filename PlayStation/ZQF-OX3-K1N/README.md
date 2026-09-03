@@ -1,5 +1,5 @@
 ## Avatar land(dont check theicenat    
-##### by Ultra_hero9878  
+##### Author: Ultra_hero9878  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

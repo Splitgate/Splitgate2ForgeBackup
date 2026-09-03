@@ -1,5 +1,5 @@
 ## New Project    
-##### by AnGel87974  
+##### Author: AnGel87974  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

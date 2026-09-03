@@ -1,5 +1,5 @@
 ## Deadlock 1v1    
-##### by Hawksey  
+##### Author: Hawksey  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

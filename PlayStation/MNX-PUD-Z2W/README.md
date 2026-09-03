@@ -1,5 +1,5 @@
 ## Nelson House    
-##### by DaDragov2  
+##### Author: DaDragov2  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

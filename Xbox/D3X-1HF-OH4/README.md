@@ -1,5 +1,5 @@
 ## Crucible    
-##### by xS1l3ntAssassin  
+##### Author: xS1l3ntAssassin  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

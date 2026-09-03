@@ -1,5 +1,5 @@
 ## Close Quarters Combat (0.5)    
-##### by wrst71  
+##### Author: wrst71  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Halo Portal    
-##### by ForehandPizza99  
+##### Author: ForehandPizza99  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

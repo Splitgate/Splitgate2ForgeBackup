@@ -1,5 +1,5 @@
 ## 1v1 Goon hole    
-##### by VDUBBNUT360  
+##### Author: VDUBBNUT360  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

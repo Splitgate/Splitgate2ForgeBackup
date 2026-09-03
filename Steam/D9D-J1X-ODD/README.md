@@ -1,5 +1,5 @@
 ## The World Among Portals    
-##### by xIMEUTx  
+##### Author: xIMEUTx  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

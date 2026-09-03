@@ -1,5 +1,5 @@
 ## Nouveau projet    
-##### by Koalas2015  
+##### Author: Koalas2015  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

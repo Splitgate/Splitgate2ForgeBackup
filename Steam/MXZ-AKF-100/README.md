@@ -1,5 +1,5 @@
 ## speed game    
-##### by tkadyn96  
+##### Author: tkadyn96  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

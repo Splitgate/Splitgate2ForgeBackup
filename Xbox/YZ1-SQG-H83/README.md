@@ -1,5 +1,5 @@
 ## KINGS GAME (king of the hill)    
-##### by KingSarmayy  
+##### Author: KingSarmayy  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

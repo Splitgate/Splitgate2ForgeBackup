@@ -1,5 +1,5 @@
 ## New Project    
-##### by Bobispro8861  
+##### Author: Bobispro8861  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

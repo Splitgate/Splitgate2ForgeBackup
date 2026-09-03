@@ -1,5 +1,5 @@
 ## Iraq Desert    
-##### by EARTHQUAKE MEGATRON  
+##### Author: EARTHQUAKE MEGATRON  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

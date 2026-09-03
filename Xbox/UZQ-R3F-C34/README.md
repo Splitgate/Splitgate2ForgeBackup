@@ -1,5 +1,5 @@
 ## The Bridge B    
-##### by JinxThirteen 16  
+##### Author: JinxThirteen 16  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

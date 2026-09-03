@@ -1,5 +1,5 @@
 ## Canyon Installation    
-##### by D4VIES G4MER  
+##### Author: D4VIES G4MER  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

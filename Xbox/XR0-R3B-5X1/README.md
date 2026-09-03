@@ -1,5 +1,5 @@
 ## Pillar (v1.01)    
-##### by Halodude206  
+##### Author: Halodude206  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

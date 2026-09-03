@@ -1,5 +1,5 @@
 ## Meme    
-##### by Nick ned6652  
+##### Author: Nick ned6652  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

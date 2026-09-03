@@ -1,5 +1,5 @@
 ## Green Zone new update    
-##### by Ab_ixie  
+##### Author: Ab_ixie  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

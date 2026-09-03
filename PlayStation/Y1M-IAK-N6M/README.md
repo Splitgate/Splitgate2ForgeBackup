@@ -1,5 +1,5 @@
 ## Portal Test Chamber #420    
-##### by Nic--Trojan  
+##### Author: Nic--Trojan  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

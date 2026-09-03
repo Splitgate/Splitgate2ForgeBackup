@@ -1,5 +1,5 @@
 ## First Map Ever Created    
-##### by Tralalero Tralala  
+##### Author: Tralalero Tralala  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

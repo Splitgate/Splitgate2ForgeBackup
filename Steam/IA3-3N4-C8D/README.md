@@ -1,5 +1,5 @@
 ## Big TP Only Map yessirs    
-##### by Gl1t3hYT  
+##### Author: Gl1t3hYT  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

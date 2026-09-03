@@ -1,5 +1,5 @@
 ## BornKray Lounge    
-##### by 0cktan3  
+##### Author: 0cktan3  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

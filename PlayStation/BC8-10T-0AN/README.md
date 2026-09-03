@@ -1,5 +1,5 @@
 ## New Projectblood    
-##### by Dnice420000500  
+##### Author: Dnice420000500  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

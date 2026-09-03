@@ -1,5 +1,5 @@
 ## Liminal sea 2    
-##### by FlamingoBob_Bana  
+##### Author: FlamingoBob_Bana  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

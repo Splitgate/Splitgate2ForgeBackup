@@ -1,5 +1,5 @@
 ## SplitBall    
-##### by Viciouszz_310  
+##### Author: Viciouszz_310  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

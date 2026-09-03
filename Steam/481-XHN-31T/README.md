@@ -1,5 +1,5 @@
 ## New Project    
-##### by AlienatedMat_k5  
+##### Author: AlienatedMat_k5  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

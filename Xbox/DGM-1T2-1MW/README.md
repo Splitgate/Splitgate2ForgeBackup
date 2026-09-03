@@ -1,5 +1,5 @@
 ## Continent Zenroe: III: The great    
-##### by Steve filevirus  
+##### Author: Steve filevirus  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

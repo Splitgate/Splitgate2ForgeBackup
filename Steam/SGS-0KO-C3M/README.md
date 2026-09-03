@@ -1,5 +1,5 @@
 ## shipments | TDM    
-##### by Wasted  
+##### Author: Wasted  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

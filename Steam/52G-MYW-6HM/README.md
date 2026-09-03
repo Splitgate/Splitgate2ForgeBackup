@@ -1,5 +1,5 @@
 ## Nuevo proyecto    
-##### by juanzarachopc  
+##### Author: juanzarachopc  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

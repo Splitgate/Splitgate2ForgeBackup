@@ -1,5 +1,5 @@
 ## Oasis 1.0    
-##### by MrAdzYT  
+##### Author: MrAdzYT  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

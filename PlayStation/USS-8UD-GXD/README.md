@@ -1,5 +1,5 @@
 ## New Project    
-##### by hudhud_0550  
+##### Author: hudhud_0550  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

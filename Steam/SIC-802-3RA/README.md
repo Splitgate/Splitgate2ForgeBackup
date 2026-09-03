@@ -1,5 +1,5 @@
 ## 2-3 player map    
-##### by Void  
+##### Author: Void  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

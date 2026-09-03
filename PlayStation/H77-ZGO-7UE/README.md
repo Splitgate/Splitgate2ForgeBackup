@@ -1,5 +1,5 @@
 ## New Project    
-##### by T2M5A2CC  
+##### Author: T2M5A2CC  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## sp2_farkid_v2    
-##### by monrequla  
+##### Author: monrequla  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

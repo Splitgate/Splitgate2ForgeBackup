@@ -1,5 +1,5 @@
 ## Prime Hunters Alinos Gateway 1.2    
-##### by Mord  
+##### Author: Mord  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

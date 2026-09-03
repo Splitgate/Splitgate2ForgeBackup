@@ -1,5 +1,5 @@
 ## Simple City    
-##### by DECA_GONE  
+##### Author: DECA_GONE  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Neues Projekt 1    
-##### by Nordecal_2277_  
+##### Author: Nordecal_2277_  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

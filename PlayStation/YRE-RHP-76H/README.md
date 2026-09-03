@@ -1,5 +1,5 @@
 ## New Project    
-##### by super_10Danny  
+##### Author: super_10Danny  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

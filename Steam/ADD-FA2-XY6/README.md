@@ -1,5 +1,5 @@
 ## 1V1 2V2 3V3    
-##### by Suprim sway  
+##### Author: Suprim sway  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

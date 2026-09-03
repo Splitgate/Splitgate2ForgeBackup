@@ -1,5 +1,5 @@
 ## Testing grounds    
-##### by catcraft1111  
+##### Author: catcraft1111  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

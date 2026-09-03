@@ -1,5 +1,5 @@
 ## Get better kid(Training)    
-##### by innocentntege3  
+##### Author: innocentntege3  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

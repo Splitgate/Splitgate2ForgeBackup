@@ -1,5 +1,5 @@
 ## Halo Reach: The Cage    
-##### by Naberius_13  
+##### Author: Naberius_13  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

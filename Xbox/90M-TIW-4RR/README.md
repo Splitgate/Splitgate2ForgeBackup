@@ -1,5 +1,5 @@
 ## Aim settings test    
-##### by DANKWRITER89606  
+##### Author: DANKWRITER89606  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

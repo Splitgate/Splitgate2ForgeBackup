@@ -1,5 +1,5 @@
 ## Damaged SSL Space Station    
-##### by AlienSharpShoot  
+##### Author: AlienSharpShoot  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Sabrask's warehouse mart    
-##### by not_evil100  
+##### Author: not_evil100  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

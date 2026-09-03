@@ -1,5 +1,5 @@
 ## New Project    
-##### by AdamB0107  
+##### Author: AdamB0107  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

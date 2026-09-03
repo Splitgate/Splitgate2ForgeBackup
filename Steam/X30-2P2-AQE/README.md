@@ -1,5 +1,5 @@
 ## New bhgvmjhjgbvfuygtfhyutfProjec    
-##### by i miss a lot  
+##### Author: i miss a lot  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

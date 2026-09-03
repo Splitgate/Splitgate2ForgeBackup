@@ -1,5 +1,5 @@
 ## Sniper areana    
-##### by davert21  
+##### Author: davert21  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

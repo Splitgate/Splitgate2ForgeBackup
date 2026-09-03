@@ -1,5 +1,5 @@
 ## Luka Tycoon    
-##### by Floppy9961  
+##### Author: Floppy9961  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

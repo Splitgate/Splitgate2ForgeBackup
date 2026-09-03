@@ -1,5 +1,5 @@
 ## Onslaught 0.1    
-##### by Twitch.tv | Poorboy  
+##### Author: Twitch.tv | Poorboy  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

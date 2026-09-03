@@ -1,5 +1,5 @@
 ## dick 2    
-##### by Dinglebarf Binglebottom  
+##### Author: Dinglebarf Binglebottom  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

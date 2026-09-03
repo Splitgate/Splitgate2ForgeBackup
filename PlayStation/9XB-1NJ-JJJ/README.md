@@ -1,5 +1,5 @@
 ## FACILITY 1    
-##### by Such_a_punk  
+##### Author: Such_a_punk  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

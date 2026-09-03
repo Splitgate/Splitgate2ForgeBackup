@@ -1,5 +1,5 @@
 ## triple portal practice    
-##### by Nigel J. Fentsworth IV  
+##### Author: Nigel J. Fentsworth IV  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

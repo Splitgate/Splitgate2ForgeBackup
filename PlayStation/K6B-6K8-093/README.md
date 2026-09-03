@@ -1,5 +1,5 @@
 ## New Project    
-##### by O-B_Wan-Jabroni  
+##### Author: O-B_Wan-Jabroni  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

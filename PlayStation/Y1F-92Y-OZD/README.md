@@ -1,5 +1,5 @@
 ## Ut ocean 1o2 v5    
-##### by dominikslunjski9  
+##### Author: dominikslunjski9  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

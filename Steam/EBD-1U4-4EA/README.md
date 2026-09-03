@@ -1,5 +1,5 @@
 ## Overlands 1.3    
-##### by TaranTheTRex  
+##### Author: TaranTheTRex  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

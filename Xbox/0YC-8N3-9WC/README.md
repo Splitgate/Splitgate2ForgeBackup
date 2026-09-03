@@ -1,5 +1,5 @@
 ## The Monument    
-##### by ObtainedSpace30  
+##### Author: ObtainedSpace30  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

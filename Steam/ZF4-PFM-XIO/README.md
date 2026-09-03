@@ -1,5 +1,5 @@
 ## Shallow Water by Euroclydon    
-##### by Teheran_Euroclydon  
+##### Author: Teheran_Euroclydon  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Super Cool Awesome Map!    
-##### by duke dennis  
+##### Author: duke dennis  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

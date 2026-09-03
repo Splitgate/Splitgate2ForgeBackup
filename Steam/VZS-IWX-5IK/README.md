@@ -1,5 +1,5 @@
 ## 2 fort ver 0.2 (patched)    
-##### by vista  
+##### Author: vista  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

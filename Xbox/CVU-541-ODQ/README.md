@@ -1,5 +1,5 @@
 ## Kino der Toten    
-##### by InducedChain313  
+##### Author: InducedChain313  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

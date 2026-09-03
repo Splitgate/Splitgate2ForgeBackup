@@ -1,5 +1,5 @@
 ## New Project    
-##### by xBig Tryhard07x  
+##### Author: xBig Tryhard07x  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

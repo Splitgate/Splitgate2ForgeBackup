@@ -1,5 +1,5 @@
 ## Asgore's Castle    
-##### by Kman_pikachu  
+##### Author: Kman_pikachu  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

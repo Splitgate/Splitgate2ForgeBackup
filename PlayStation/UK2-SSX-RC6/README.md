@@ -1,5 +1,5 @@
 ## Titty mountain v1    
-##### by ViktoriousDead  
+##### Author: ViktoriousDead  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

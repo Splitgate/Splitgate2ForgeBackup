@@ -1,5 +1,5 @@
 ##  mw19 Shipment     
-##### by I Move Boxes for Work  
+##### Author: I Move Boxes for Work  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## Portal Box    
-##### by Spiri7853  
+##### Author: Spiri7853  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

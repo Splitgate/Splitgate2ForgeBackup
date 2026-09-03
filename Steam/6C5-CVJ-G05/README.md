@@ -1,5 +1,5 @@
 ## 新しいプロジェクト    
-##### by we can go band4band  
+##### Author: we can go band4band  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

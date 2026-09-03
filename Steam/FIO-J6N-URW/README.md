@@ -1,5 +1,5 @@
 ## 新しいプロジェクト    
-##### by セガ名前が長いと言われたので短くしました  
+##### Author: セガ名前が長いと言われたので短くしました  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

@@ -1,5 +1,5 @@
 ## The Off World Crown    
-##### by Oga  
+##### Author: Oga  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

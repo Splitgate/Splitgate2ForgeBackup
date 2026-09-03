@@ -1,5 +1,5 @@
 ## R5R D2    
-##### by RONIN5R  
+##### Author: RONIN5R  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

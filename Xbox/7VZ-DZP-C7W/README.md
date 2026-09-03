@@ -1,5 +1,5 @@
 ## Sim_Triumph_test    
-##### by Wakazak9699  
+##### Author: Wakazak9699  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

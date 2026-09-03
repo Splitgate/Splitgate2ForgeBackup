@@ -1,5 +1,5 @@
 ## South West Collection Point UNFI    
-##### by soulja.666  
+##### Author: soulja.666  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  

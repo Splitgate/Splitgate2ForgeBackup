@@ -1,5 +1,5 @@
 ## 1V1/FFA Drought Arena    
-##### by TicklePickleJr  
+##### Author: TicklePickleJr  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
 ## Details  
