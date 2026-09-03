@@ -1,0 +1,9977 @@
+{
+	"metaData":
+	{
+		"mapDataAssetName": "MapData_Creative_EmptySpace",
+		"bWasCustomized": true
+	},
+	"contents":
+	{
+		"customActorGroups": [
+			{
+				"overrideLabel": "Team Spawns",
+				"labelIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "Fracture Diorama",
+				"labelIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "Firecracker Setup",
+				"labelIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "SSL Portal Cube 4x3",
+				"labelIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "Simulation Portal Floor Medium",
+				"labelIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "Simulation Portal Floor Large",
+				"labelIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "Hotzone Setup",
+				"labelIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "Simulation Portal Launcher",
+				"labelIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			}
+		],
+		"customActors": [
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.25,
+						"y": 1.25,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275684,
+						"y": -75456296,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneNeutralObjective",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3200,
+						"y": 1950,
+						"z": -3250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 15,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2200,
+						"y": 1200,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2900,
+						"y": 150,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 11,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2800,
+						"y": -600,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 12,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2800,
+						"y": 850,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 13,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2900,
+						"y": 500,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 13,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2800,
+						"y": -750,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 7,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 4.25
+					},
+					"translation":
+					{
+						"x": 1800,
+						"y": -2650,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0.270598189436555,
+						"y": -0.27059744437845079,
+						"z": 0.65328178763462108,
+						"w": 0.65328137040208278
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 2000,
+					"bShowLaunchCosmetics": true,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneBravoObjective",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4400,
+						"y": 2150,
+						"z": -3250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 14,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2900,
+						"y": 650,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayNeutralPlantZone",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 525350,
+						"y": 16150,
+						"z": -97500
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"ObjectiveTeam":
+					{
+						"TeamID": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRoots05",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43268332,
+						"y": -75459760,
+						"z": -21528722
+					},
+					"rotation":
+					{
+						"x": 0.25521573602526593,
+						"y": 0.11176841784072351,
+						"z": 0.38527003199630178,
+						"w": 0.87973845619253888
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureAsteroidClump03",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43283856,
+						"y": -75454448,
+						"z": -21527586
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureSpacePlant04",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43276160,
+						"y": -75458216,
+						"z": -21532382
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRockMedium02",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.5,
+						"y": 0.5,
+						"z": 0.5
+					},
+					"translation":
+					{
+						"x": 43273412,
+						"y": -75459320,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.15441722720393058,
+						"w": 0.98800572869930736
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRockMedium01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43270364,
+						"y": -75459624,
+						"z": -21532134
+					},
+					"rotation":
+					{
+						"x": 0.073386641449524725,
+						"y": 0.058813107945933599,
+						"z": -0.97979506664284954,
+						"w": 0.17651358750201854
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureSpacePlant04",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43276408,
+						"y": -75457928,
+						"z": -21532382
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 24,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2900,
+						"y": 500,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureClover01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275224,
+						"y": -75456448,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 11850,
+						"y": -2300,
+						"z": -2250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch02",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43271128,
+						"y": -75458744,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureClover02",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43278444,
+						"y": -75461528,
+						"z": -21532582
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneNeutralObjective",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2000,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 10,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3000,
+						"y": -400,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 4.3711388347970205e-08,
+						"y": 0.99999999999999789,
+						"z": 4.3711388347970212e-08,
+						"w": 1.9106854705178051e-15
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureDryLeaves",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.25,
+						"y": 1.25,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43276804,
+						"y": -75460160,
+						"z": -21532588
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.24951222989871177,
+						"w": 0.96837164721555768
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSSLCreativePortalCubeFloor6x6",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 11300,
+						"y": -2600,
+						"z": -2250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3800,
+						"y": 400,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayDominationAlphaObjective",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 6,
+						"y": 6,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -1800,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle",
+					"RoundConfig": 0,
+					"CapturePointLabelIndex": 0
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureSpacePlant03",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43276108,
+						"y": -75458376,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRockMedium01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2,
+						"y": 2,
+						"z": 2.25
+					},
+					"translation":
+					{
+						"x": 43269920,
+						"y": -75462632,
+						"z": -21530688
+					},
+					"rotation":
+					{
+						"x": -0.027983276916101241,
+						"y": -0.13045850742371129,
+						"z": -0.003683616970633847,
+						"w": 0.99105193860858154
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275036,
+						"y": -75456416,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 12,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3800,
+						"y": -1200,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch02",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43274992,
+						"y": -75457032,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureSpacePlant03",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43276160,
+						"y": -75458328,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureSpacePlant01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43276024,
+						"y": -75459416,
+						"z": -21532488
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedLand03",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43273760,
+						"y": -75458728,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.25881936789303361,
+						"w": 0.96592573979755336
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedGround08",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 2
+					},
+					"translation":
+					{
+						"x": 43278772,
+						"y": -75460536,
+						"z": -21532520
+					},
+					"rotation":
+					{
+						"x": 0.066403382659193211,
+						"y": 0.027553767435884179,
+						"z": 0.38226843532330629,
+						"w": 0.92125035903763763
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 17,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2900,
+						"y": -650,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRoots06",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.625,
+						"y": 1.625,
+						"z": 1.625
+					},
+					"translation":
+					{
+						"x": 43280168,
+						"y": -75460368,
+						"z": -21533114
+					},
+					"rotation":
+					{
+						"x": -0.093412694500212362,
+						"y": -0.3236710331652905,
+						"z": -0.29157220438634635,
+						"w": 0.89526352568682843
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 20,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2900,
+						"y": -150,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedGround02",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2.25,
+						"y": 3.25,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43274688,
+						"y": -75458560,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.12812790539155158,
+						"w": 0.99175765177787933
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFern02",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43274972,
+						"y": -75456600,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayKothObjective",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 12,
+						"y": 12,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2600,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"GroupNumber": 2
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneBravoObjective",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4400,
+						"y": 4150,
+						"z": -3250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureClover02",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.75,
+						"y": 1.75,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43280312,
+						"y": -75458328,
+						"z": -21532582
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplaySplitballSpawner",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2000,
+						"z": 200
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"ObjectiveIndex": 0
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRock01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.5,
+						"y": 0.5,
+						"z": 0.5
+					},
+					"translation":
+					{
+						"x": 43269372,
+						"y": -75460856,
+						"z": -21531684
+					},
+					"rotation":
+					{
+						"x": 0.034364358087003333,
+						"y": -0.13931456409442577,
+						"z": -0.72232098430569813,
+						"w": 0.6765078999953329
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 27,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2200,
+						"y": 400,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRamp02",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 0.5,
+						"z": 0.75
+					},
+					"translation":
+					{
+						"x": 43276208,
+						"y": -75457928,
+						"z": -21532582
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.38268336511216505,
+						"w": 0.92387956036835739
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 13,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3000,
+						"y": -400,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneAlphaObjective",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2000,
+						"y": 4150,
+						"z": -3250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 25,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3000,
+						"y": -1200,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 28,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 1750,
+						"y": -2200,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch02",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43271656,
+						"y": -75457184,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMKitFloorThinCurved6x6A01",
+				"overrideLabel": "",
+				"labelIndex": 10,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2000,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureClover02",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43280268,
+						"y": -75459136,
+						"z": -21532582
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 11350,
+						"y": -2300,
+						"z": -2250
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFracturePine03",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275948,
+						"y": -75459472,
+						"z": -21532582
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayKothObjective",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 12,
+						"y": 12,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2000,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"GroupNumber": 4
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 28,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2200,
+						"y": -1200,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureBoulder06",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43278988,
+						"y": -75460136,
+						"z": -21532564
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMKitFloorThinCurved6x6A01",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2000,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710684079119079,
+						"w": 0.70710672158189936
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2450,
+						"y": 50,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 3,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFern02",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275588,
+						"y": -75456672,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 16,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2900,
+						"y": -500,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMKitFloorThinCurved6x6A01",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2000,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710684079119079,
+						"w": 0.70710672158189936
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 17,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3800,
+						"y": -1200,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureTerraceLedge03",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43271900,
+						"y": -75461224,
+						"z": -21532372
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedGround06",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43272700,
+						"y": -75460920,
+						"z": -21531982
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 23,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3000,
+						"y": 400,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0.999999999999999,
+						"y": 0,
+						"z": 0,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRoots02",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 3,
+						"y": 3,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 43273244,
+						"y": -75456912,
+						"z": -21533502
+					},
+					"rotation":
+					{
+						"x": -0.28049304132348302,
+						"y": 0.055368145917108202,
+						"z": 0.28049298171884024,
+						"w": 0.9162869143413972
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2350,
+						"y": 0,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 5,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 14,
+						"z": 14
+					},
+					"translation":
+					{
+						"x": 5650,
+						"y": -750,
+						"z": -550
+					},
+					"rotation":
+					{
+						"x": -0.70710678118653425,
+						"y": 1.3767876743022114e-07,
+						"z": -0.70710678118653436,
+						"w": -1.3767876743022111e-07
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMKitFloorThinCurved6x6A01",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": -4.3711388347970212e-08,
+						"y": -0.999999999999998,
+						"z": 4.3711388347970212e-08,
+						"w": 1.9106854713070703e-15
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2550,
+						"y": -250,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 5,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 14,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2200,
+						"y": 400,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 16,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2200,
+						"y": -1950,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3800,
+						"y": 1200,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 19,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2200,
+						"y": -1200,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 11600,
+						"y": -2550,
+						"z": -2250
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710648316325575,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch02",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275748,
+						"y": -75456992,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneAlphaObjective",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2000,
+						"y": 3150,
+						"z": -3250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRoots05",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275160,
+						"y": -75455176,
+						"z": -21532682
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneNeutralObjective",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2000,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureClover01",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43274052,
+						"y": -75457824,
+						"z": -21531944
+					},
+					"rotation":
+					{
+						"x": 0.030814300159600863,
+						"y": 0.053371788955419476,
+						"z": 0.25648879120105894,
+						"w": 0.96458044301011636
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2800,
+						"y": 200,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 12,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2450,
+						"y": -200,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 2,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3800,
+						"y": 400,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 18,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2900,
+						"y": -800,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2900,
+						"y": -150,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 20,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3800,
+						"y": 2000,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayNeutralSpawner",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplaySplitballSpawner",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2000,
+						"z": 200
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"ObjectiveIndex": 0
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2550,
+						"y": 350,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 4,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMKitFloorThinCurved6x6A01",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2000,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071065129656019,
+						"w": 0.70710704940739155
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3000,
+						"y": 1200,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMKitFloorThinCurved6x6A01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": -0.999999999999999,
+						"y": -0,
+						"z": 0,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureTerrace01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.5,
+						"y": 0.75,
+						"z": 0.125
+					},
+					"translation":
+					{
+						"x": 43278760,
+						"y": -75459128,
+						"z": -21532580
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 21,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3000,
+						"y": 2000,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFern03",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.625,
+						"y": 0.625,
+						"z": 0.625
+					},
+					"translation":
+					{
+						"x": 43278236,
+						"y": -75460728,
+						"z": -21532582
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.083962419835699909,
+						"w": 0.99646892177093682
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneAlphaObjective",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2600,
+						"y": 1600,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneNeutralObjective",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 32,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -50,
+						"y": -2050,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayDominationBravoObjective",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 6,
+						"y": 6,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 1800,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle",
+					"RoundConfig": 0,
+					"CapturePointLabelIndex": 2
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayAsymmetricPlantZone",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 524750,
+						"y": 16550,
+						"z": -97500
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"LabelIndex": 1
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFern04",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43273924,
+						"y": -75459432,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureSpacePlant01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275664,
+						"y": -75459464,
+						"z": -21532180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.86228971098715868,
+						"w": 0.50641529827374121
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneAlphaObjective",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2600,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureTerraceLedge03",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 0.875,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43272728,
+						"y": -75461160,
+						"z": -21532652
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.39984914183145376,
+						"w": 0.91658096411427281
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplaySplitballCaptureZone",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3400,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"ObjectiveTeam":
+					{
+						"TeamID": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 10,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2650,
+						"y": 300,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 4,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFern03",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43273896,
+						"y": -75459312,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 11600,
+						"y": -2050,
+						"z": -2250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710684079119079,
+						"w": 0.70710672158189936
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRoots04",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43277060,
+						"y": -75456432,
+						"z": -21532682
+					},
+					"rotation":
+					{
+						"x": 0.37278815304280566,
+						"y": -0.14996612949199059,
+						"z": -0.48582783202964552,
+						"w": 0.77621547947815317
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureBoulder02",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43272920,
+						"y": -75461824,
+						"z": -21532270
+					},
+					"rotation":
+					{
+						"x": -0.014022759422921919,
+						"y": -0.058704328884704927,
+						"z": 0.027269371361517736,
+						"w": 0.99780436227444502
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 21,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2550,
+						"y": 0,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 3,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureAsteroidsSmall02",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43266384,
+						"y": -75454424,
+						"z": -21525770
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedGround05",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43278064,
+						"y": -75460192,
+						"z": -21532582
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.64271680985645807,
+						"w": 0.76610384565536394
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 30,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -1150,
+						"y": -650,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 4
+					},
+					"translation":
+					{
+						"x": 11400,
+						"y": -2300,
+						"z": -1910
+					},
+					"rotation":
+					{
+						"x": 0.70710678118653425,
+						"y": 1.3767876743022114e-07,
+						"z": 0.70710678118653436,
+						"w": -1.3767876743022111e-07
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 10,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2800,
+						"y": 700,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayNeutralPlantZone",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 522950,
+						"y": 16150,
+						"z": -97500
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"ObjectiveTeam":
+					{
+						"TeamID": 0
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneBravoObjective",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2600,
+						"y": -1600,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2800,
+						"y": -100,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 15,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2900,
+						"y": 800,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedLand04",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 2
+					},
+					"translation":
+					{
+						"x": 43274376,
+						"y": -75460032,
+						"z": -21533490
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMKitFloorThinCurved6x6A01",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2000,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRoots03",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.5,
+						"y": 1.5,
+						"z": 1.5
+					},
+					"translation":
+					{
+						"x": 43269352,
+						"y": -75459656,
+						"z": -21532744
+					},
+					"rotation":
+					{
+						"x": 0.35827472288122819,
+						"y": -0.13448300391848789,
+						"z": 0.7514468351886513,
+						"w": 0.53747669576121937
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayNeutralPlantZone",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3700,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"ObjectiveTeam":
+					{
+						"TeamID": 0
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayAsymmetricPlantZone",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 524750,
+						"y": 15750,
+						"z": -97500
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"LabelIndex": 0
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayKothObjective",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 12,
+						"y": 12,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"GroupNumber": 0
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3800,
+						"y": 1200,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 11,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2650,
+						"y": -300,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 5,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFracturePine03",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.5,
+						"y": 0.5,
+						"z": 0.5
+					},
+					"translation":
+					{
+						"x": 43272200,
+						"y": -75461928,
+						"z": -21531684
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 22,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2650,
+						"y": 300,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 4,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureClover01",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.5,
+						"y": 0.5,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43273908,
+						"y": -75458872,
+						"z": -21531960
+					},
+					"rotation":
+					{
+						"x": 0.030814300159600863,
+						"y": 0.053371788955419476,
+						"z": 0.25648879120105894,
+						"w": 0.96458044301011636
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayAsymmetricPlantZone",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 1800,
+						"y": 1600,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"LabelIndex": 1
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneBravoObjective",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2600,
+						"y": 1600,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFern04",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.25,
+						"y": 1.25,
+						"z": 1.25
+					},
+					"translation":
+					{
+						"x": 43277928,
+						"y": -75459664,
+						"z": -21532578
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.66630191751536616,
+						"w": 0.74568207348396565
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureTerrace03",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.625,
+						"y": 0.625,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43270724,
+						"y": -75461600,
+						"z": -21531684
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayNeutralPlantZone",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3700,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"ObjectiveTeam":
+					{
+						"TeamID": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayKothObjective",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 12,
+						"y": 12,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2600,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"GroupNumber": 1
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureBoulder04",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43274224,
+						"y": -75458016,
+						"z": -21532338
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.36024218421684079,
+						"w": 0.93285881499328704
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureDryLeaves",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.5,
+						"y": 1.5,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43277796,
+						"y": -75457768,
+						"z": -21532582
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedGround08",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.25,
+						"y": 2,
+						"z": 2.375
+					},
+					"translation":
+					{
+						"x": 43278912,
+						"y": -75460480,
+						"z": -21532572
+					},
+					"rotation":
+					{
+						"x": 0.021535267105879583,
+						"y": 0.090710211279350542,
+						"z": 0.18622507825683884,
+						"w": 0.97807367312926285
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedLand04",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.25,
+						"y": 0.25,
+						"z": 0.5
+					},
+					"translation":
+					{
+						"x": 43276156,
+						"y": -75460576,
+						"z": -21532118
+					},
+					"rotation":
+					{
+						"x": -0.095200958700152341,
+						"y": -0.089297826264678998,
+						"z": 0.84232362630639401,
+						"w": 0.52292789584513577
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRamp01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 0.25
+					},
+					"translation":
+					{
+						"x": 43275308,
+						"y": -75461880,
+						"z": -21532582
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureBoulder04",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.625,
+						"y": 1.375,
+						"z": 1.625
+					},
+					"translation":
+					{
+						"x": 43272680,
+						"y": -75462096,
+						"z": -21531886
+					},
+					"rotation":
+					{
+						"x": -0.23117362935173077,
+						"y": 0.084873627715995284,
+						"z": 0.49702777568994172,
+						"w": 0.83205685539113483
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRoots01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43276108,
+						"y": -75458328,
+						"z": -21532382
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.60876059782433889,
+						"w": 0.79335397808075159
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureBoulder05",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275128,
+						"y": -75456656,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayAsymmetricPlantZone",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 1800,
+						"y": -1600,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"LabelIndex": 0
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2350,
+						"y": 250,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 1,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureDryLeaves",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2,
+						"y": 2,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43272076,
+						"y": -75458408,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayKothObjective",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 12,
+						"y": 12,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2000,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"GroupNumber": 3
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFern01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43273460,
+						"y": -75457432,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFern04",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43277940,
+						"y": -75459864,
+						"z": -21532578
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneAlphaObjective",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2600,
+						"y": -1600,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2450,
+						"y": -200,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 2,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureSpacePlant03",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43276060,
+						"y": -75458328,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneBravoObjective",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4400,
+						"y": 3150,
+						"z": -3250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMKitFloorThinCurved6x6A01",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": -0.70710704940739066,
+						"y": 0.70710651296560101,
+						"z": -3.0908608143767362e-08,
+						"w": 3.0908629460048832e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2900,
+						"y": -800,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureDryLeaves",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.25,
+						"y": 1.25,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43276872,
+						"y": -75460760,
+						"z": -21532548
+					},
+					"rotation":
+					{
+						"x": -0.061135772551708309,
+						"y": 0.035140983723590896,
+						"z": -0.16583271307284425,
+						"w": 0.98362952367867862
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRockMedium03",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43278592,
+						"y": -75459416,
+						"z": -21532582
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 26,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2200,
+						"y": -400,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRockMedium04",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.25,
+						"y": 0.25,
+						"z": 0.25
+					},
+					"translation":
+					{
+						"x": 43277128,
+						"y": -75456648,
+						"z": -21532188
+					},
+					"rotation":
+					{
+						"x": 0.048406618767007831,
+						"y": 0.32086362385906453,
+						"z": -0.061022482760188616,
+						"w": 0.94391715247756636
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureBoulder04",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43279928,
+						"y": -75459832,
+						"z": -21532650
+					},
+					"rotation":
+					{
+						"x": 0.11483709398974301,
+						"y": 0.17902569293250142,
+						"z": -0.1062344600037127,
+						"w": 0.97132717588964212
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_NScreativeSandBlowing01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -1850,
+						"y": 750,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"SpawnRate": 1,
+					"Scale": 1,
+					"Color":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFracturePine01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275408,
+						"y": -75456728,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 25,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2900,
+						"y": 650,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -1450,
+						"y": -1250,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2550,
+						"y": 0,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 3,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43273612,
+						"y": -75457400,
+						"z": -21532168
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFern01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275564,
+						"y": -75456800,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplaySplitballSpawner",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 200
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"ObjectiveIndex": 0
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.25,
+						"y": 1.25,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275136,
+						"y": -75455808,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 11,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3000,
+						"y": 1200,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRoots05",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 5,
+						"y": 5,
+						"z": 5
+					},
+					"translation":
+					{
+						"x": 43275724,
+						"y": -75457336,
+						"z": -21533882
+					},
+					"rotation":
+					{
+						"x": -0.13052695909187875,
+						"y": -0,
+						"z": 0,
+						"w": 0.99144476041291718
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMKitFloorThinCurved6x6A01",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2000,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureClover01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43280492,
+						"y": -75458824,
+						"z": -21532580
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureClover01",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.875,
+						"y": 1.875,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43273236,
+						"y": -75458568,
+						"z": -21531870
+					},
+					"rotation":
+					{
+						"x": 0.03081428155696293,
+						"y": 0.053371785271373873,
+						"z": 0.25648879139927,
+						"w": 0.96458044375553087
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 26,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2900,
+						"y": 800,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 29,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3800,
+						"y": -2000,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2250,
+						"y": 50,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplaySplitballCaptureZone",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3400,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"ObjectiveTeam":
+					{
+						"TeamID": 0
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 27,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2900,
+						"y": -500,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 23,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2650,
+						"y": -300,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 5,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedGround06",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.25,
+						"y": 1.25,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43276136,
+						"y": -75459520,
+						"z": -21532546
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0.13052615271150966,
+						"z": 0,
+						"w": 0.99144486657520781
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedGround08",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.25,
+						"y": 2,
+						"z": 2.375
+					},
+					"translation":
+					{
+						"x": 43278640,
+						"y": -75460680,
+						"z": -21532576
+					},
+					"rotation":
+					{
+						"x": 0.038874118775714686,
+						"y": -0.058314035461176209,
+						"z": 0.55331765545726441,
+						"w": 0.8300167759249929
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3800,
+						"y": -400,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayAsymmetricSpawner",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -1800,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRockMedium03",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43271176,
+						"y": -75457696,
+						"z": -21532394
+					},
+					"rotation":
+					{
+						"x": 0.064866758779086486,
+						"y": -0.21488714183715973,
+						"z": -0.062817230720026207,
+						"w": 0.97245555960322361
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFern03",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43278196,
+						"y": -75460640,
+						"z": -21532582
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.52049661634306832,
+						"w": 0.85386373173675456
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFracturePine03",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.5,
+						"y": 0.5,
+						"z": 0.375
+					},
+					"translation":
+					{
+						"x": 43272092,
+						"y": -75461816,
+						"z": -21531684
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.98442650054351444,
+						"w": 0.17579665818112136
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 31,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2050,
+						"y": -5000,
+						"z": 1580
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedGround06",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43272804,
+						"y": -75461384,
+						"z": -21531982
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2450,
+						"y": 200,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 1,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 19,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2900,
+						"y": 150,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 24,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3000,
+						"y": 400,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMKitFloorThinCurved6x6A01",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2000,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFracturePine01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.75,
+						"y": 0.75,
+						"z": 0.75
+					},
+					"translation":
+					{
+						"x": 43273452,
+						"y": -75457584,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedGround06",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.25,
+						"y": 0.75,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43273368,
+						"y": -75461648,
+						"z": -21531930
+					},
+					"rotation":
+					{
+						"x": -0.018399668017088824,
+						"y": -0.045290531384675613,
+						"z": 0.0008343271530082758,
+						"w": 0.99880404678893686
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedGround02",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2.25,
+						"y": 1.5,
+						"z": 1.5
+					},
+					"translation":
+					{
+						"x": 43273168,
+						"y": -75459976,
+						"z": -21532198
+					},
+					"rotation":
+					{
+						"x": 0.015410765118788309,
+						"y": -0.023856781492127346,
+						"z": 0.54238766588761655,
+						"w": 0.83964812998557536
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3800,
+						"y": -400,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneBravoObjective",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2600,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalFloor12x12",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 12100,
+						"y": -4350,
+						"z": -2040
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2350,
+						"y": 0,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedLand03",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.25,
+						"y": 0.25,
+						"z": 0.375
+					},
+					"translation":
+					{
+						"x": 43273428,
+						"y": -75458320,
+						"z": -21531882
+					},
+					"rotation":
+					{
+						"x": 0.03081428155696293,
+						"y": 0.053371785271373873,
+						"z": 0.25648879139927,
+						"w": 0.96458044375553087
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneNeutralObjective",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3200,
+						"y": 4350,
+						"z": -3250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 22,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2200,
+						"y": 2000,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneAlphaObjective",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2000,
+						"y": 2150,
+						"z": -3250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureBoulder02",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.625,
+						"y": 0.625,
+						"z": 0.625
+					},
+					"translation":
+					{
+						"x": 43279092,
+						"y": -75459352,
+						"z": -21532600
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.67445933243230061,
+						"w": 0.73831199969591144
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMKitFloorThinCurved6x6A01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": -0.70710704940739055,
+						"y": -0.70710651296560112,
+						"z": 3.0908608129886583e-08,
+						"w": 3.0908629473929598e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2900,
+						"y": -650,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43273116,
+						"y": -75457720,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayDominationNeutralObjective",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 6,
+						"y": 6,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle",
+					"RoundConfig": 0,
+					"CapturePointLabelIndex": 1
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 29,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2100,
+						"y": -900,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedLand04",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43277708,
+						"y": -75460032,
+						"z": -21532582
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFern02",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275364,
+						"y": -75456912,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 18,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3000,
+						"y": -1200,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureBoulder02",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 0.75,
+						"z": 0.75
+					},
+					"translation":
+					{
+						"x": 43277652,
+						"y": -75456928,
+						"z": -21532296
+					},
+					"rotation":
+					{
+						"x": -0.96377182677584461,
+						"y": -0.013526625094080589,
+						"z": 0.26168510499925318,
+						"w": 0.049817689109853673
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_NSCreativeFireSmall01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -1800,
+						"y": 750,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.25881915835027036,
+						"w": 0.9659257959444183
+					}
+				},
+				"properties":
+				{
+					"SpawnRate": 1,
+					"Scale": 1,
+					"Color":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureBoulder06",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275324,
+						"y": -75456552,
+						"z": -21532182
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.83876669047799313,
+						"w": 0.54449099069185192
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMKitFloorThinCurved6x6A01",
+				"overrideLabel": "",
+				"labelIndex": 11,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2000,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071065129656019,
+						"w": 0.70710704940739155
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2750,
+						"y": -2900,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayNeutralSpawner",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 524150,
+						"y": 16150,
+						"z": -97500
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRockMedium06",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.375,
+						"y": 0.375,
+						"z": 0.375
+					},
+					"translation":
+					{
+						"x": 43276116,
+						"y": -75460224,
+						"z": -21532458
+					},
+					"rotation":
+					{
+						"x": -0.17844921275007969,
+						"y": -0.23272207280916482,
+						"z": -0.84834307073386706,
+						"w": 0.44080647639765413
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRoots05",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 3.375,
+						"y": 3.375,
+						"z": 3.375
+					},
+					"translation":
+					{
+						"x": 43272476,
+						"y": -75458536,
+						"z": -21534268
+					},
+					"rotation":
+					{
+						"x": -0.1451940317933566,
+						"y": 0.14519425531078678,
+						"z": -0.97232949094365073,
+						"w": 0.11141221834967606
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFern03",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43277956,
+						"y": -75459776,
+						"z": -21532580
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRock03",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43272760,
+						"y": -75467480,
+						"z": -21532582
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.49999959056786641,
+						"w": 0.86602564017006189
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2450,
+						"y": 200,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 1,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureTerraceLedge02",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 0.875,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43270776,
+						"y": -75460544,
+						"z": -21532352
+					},
+					"rotation":
+					{
+						"x": -0.020554732687319173,
+						"y": 0.004587473382602042,
+						"z": 0.70739853919024276,
+						"w": 0.70650107204704804
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFracturePine02",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.5,
+						"y": 0.5,
+						"z": 0.5
+					},
+					"translation":
+					{
+						"x": 43272292,
+						"y": -75461296,
+						"z": -21531684
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2800,
+						"y": 550,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureSpacePlant02",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275980,
+						"y": -75459568,
+						"z": -21532484
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2800,
+						"y": -450,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_NSCreativeFog01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 350,
+						"y": -100,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"SpawnRate": 1,
+					"Scale": 1,
+					"Color":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2200,
+						"y": 1200,
+						"z": 50
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureRockMedium04",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43275808,
+						"y": -75458928,
+						"z": -21532632
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2350,
+						"y": -150,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 2,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedGround06",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.5,
+						"y": 1.5,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 43276128,
+						"y": -75459888,
+						"z": -21532488
+					},
+					"rotation":
+					{
+						"x": -0.085726390823777046,
+						"y": 0.17207025593322772,
+						"z": 0.0069840202227845361,
+						"w": 0.98132259548067591
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayAsymmetricSpawner",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 523350,
+						"y": 16150,
+						"z": -97500
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSSLCreativePortalCube5x35",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 11300,
+						"y": -2600,
+						"z": -2250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.73791098594665527,
+						"G": 0.015995999798178673,
+						"B": 0,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 10,
+						"z": 10
+					},
+					"translation":
+					{
+						"x": 12200,
+						"y": -3750,
+						"z": -2050
+					},
+					"rotation":
+					{
+						"x": -0.70710678118653425,
+						"y": 1.3767876743022114e-07,
+						"z": -0.70710678118653436,
+						"w": -1.3767876743022111e-07
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalFloor16x16",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 5,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5550,
+						"y": -1550,
+						"z": -540
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayHotzoneNeutralObjective",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3200,
+						"y": 3150,
+						"z": -3250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle"
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalLauncher6x6",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 7,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 1500,
+						"y": -3142.928955078125,
+						"z": -92.928939819335938
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			}
+		]
+	}
+}
