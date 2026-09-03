@@ -1,0 +1,9013 @@
+{
+	"metaData":
+	{
+		"mapDataAssetName": "MapData_Creative_EmptySpace",
+		"bWasCustomized": true
+	},
+	"contents":
+	{
+		"customActorGroups": [
+			{
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			}
+		],
+		"customActors": [
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -750,
+						"y": 0,
+						"z": 2000
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 110,
+					"PickupRespawnTime": 180,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "F323F86E4841627C5922B6874F33DFD5"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -2000,
+						"y": 7000,
+						"z": -600
+					},
+					"rotation":
+					{
+						"x": -0.021809650277641725,
+						"y": -0.037775508526971945,
+						"z": -0.49952324520783276,
+						"w": 0.86520163985473975
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 4000,
+					"bShowLaunchCosmetics": true,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 18,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3250,
+						"y": 1250,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 5,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3250,
+						"y": 950,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 11,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3550,
+						"y": -1350,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2,
+						"y": 2.7999999523162842,
+						"z": 2.2999999523162842
+					},
+					"translation":
+					{
+						"x": 1100,
+						"y": -2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.21643778413717746,
+						"w": 0.97629641277523338
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 10,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3400,
+						"y": 550,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 17,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 13,
+						"y": 30,
+						"z": 0.20000000298023224
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -6000,
+						"z": 600
+					},
+					"rotation":
+					{
+						"x": -0.70710648316325575,
+						"y": -0,
+						"z": 0,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinder01",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 9,
+						"y": 7,
+						"z": 0.80000001192092896
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2600,
+						"z": 1250
+					},
+					"rotation":
+					{
+						"x": 0.13052760435206667,
+						"y": 0,
+						"z": 0,
+						"w": 0.99144467546208048
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 15,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 5,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": 3700,
+						"y": -1000,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.13052832978239942,
+						"w": 0.99144457995604418
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 25,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3700,
+						"y": -400,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 1,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 5.5
+					},
+					"translation":
+					{
+						"x": 138,
+						"y": -3120,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 28,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3000,
+						"y": -1650,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 41,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -950,
+						"y": 5250,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.79335501568692823,
+						"w": 0.60875924558432293
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": true,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 200,
+						"y": 50,
+						"z": 0.40000000596046448
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": -0.18301562273074584,
+						"y": -0.68301191924920146,
+						"z": -0.18301562273074581,
+						"w": 0.68301191924920157
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Disco",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Kill",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.5,
+						"y": 3,
+						"z": 6
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 1100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Cylinder"
+					},
+					"bUseKillZCamera": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinder01",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": -9,
+						"y": 7,
+						"z": 0.80000001192092896
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2600,
+						"z": 1250
+					},
+					"rotation":
+					{
+						"x": 5.7055579056602799e-09,
+						"y": -0.13052794123956979,
+						"z": -0.99144463110945169,
+						"w": 4.3337420350606976e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 1800,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": true,
+					"RelativeDestination":
+					{
+						"X": 600,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.30000001192092896
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCircularCreative",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2.5,
+						"z": 7
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 6950,
+						"z": 1200
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710648316325575,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 21,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 10,
+						"y": 6,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4500,
+						"y": -300,
+						"z": -500
+					},
+					"rotation":
+					{
+						"x": -0.50000001490116319,
+						"y": 0.49999998509883653,
+						"z": -0.5000000149011633,
+						"w": -0.49999998509883642
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.030713438987731934,
+						"B": 0.030713438987731934,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3800,
+						"y": -450,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 2,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3800,
+						"y": -200,
+						"z": -420.0999755859375
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveHexagonTube01",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 6,
+						"y": 3,
+						"z": 8.5
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -3700,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3350,
+						"y": -1250,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 5,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveHexagonTube01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 40,
+						"y": 40,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Concrete_Tiles_01",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": true,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 30,
+						"y": 110,
+						"z": 0.30000001192092896
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2250,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": -4.3545043810861975e-08,
+						"y": 0.99619449576423236,
+						"z": -0.087158055330787035,
+						"w": 3.8097995461589873e-09
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Wood_Planks",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayKothObjective",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 30,
+						"y": 30,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"GroupNumber": 1
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCircularCreative",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 9
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 5950,
+						"z": 1550
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710648316325575,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCircularCreative",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2.5,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -9000,
+						"z": 2000
+					},
+					"rotation":
+					{
+						"x": 0.35355316286971217,
+						"y": -0.35355292445112169,
+						"z": 0.61237290421828561,
+						"w": 0.6123723677764572
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 3000,
+					"bShowLaunchCosmetics": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveHexagonTube01",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 7,
+						"y": 3,
+						"z": 13
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2500,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveHexagonTube01",
+				"overrideLabel": "",
+				"labelIndex": 12,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 6,
+						"y": 3,
+						"z": 8.5
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 3700,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCube01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 20,
+						"y": 0.75,
+						"z": 6.25
+					},
+					"translation":
+					{
+						"x": 660,
+						"y": 1150,
+						"z": -600
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.04361957598209823,
+						"w": 0.99904821334665428
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.030713438987731934,
+						"B": 0.030713438987731934,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplaySplitballSpawner",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2500,
+						"z": -450
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveHexagonTube01",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 7,
+						"y": 3,
+						"z": 9
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -3500,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 13,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 40
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 370,
+						"z": 5150
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710648316325575,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 18,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 13,
+						"y": 20,
+						"z": 0.20000000298023224
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -7000,
+						"z": 600
+					},
+					"rotation":
+					{
+						"x": -0.70710648316325575,
+						"y": -0,
+						"z": 0,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCircularCreative",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2.5,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 9000,
+						"z": 2000
+					},
+					"rotation":
+					{
+						"x": -0.3535531462396545,
+						"y": -0.35355293762339773,
+						"z": -0.61237287541413998,
+						"w": 0.61237239857698167
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 3000,
+					"bShowLaunchCosmetics": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": true,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 30,
+						"y": 110,
+						"z": 0.30000001192092896
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2250,
+						"z": -30
+					},
+					"rotation":
+					{
+						"x": -3.8097641576834855e-09,
+						"y": -0.08715724421143746,
+						"z": 0.99619456672954465,
+						"w": 4.3545047798591916e-08
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Wood_Planks",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveHexagonTube01",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 10,
+						"y": 3,
+						"z": 16
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -1500,
+						"z": 0.10000000149011612
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveHexagonTube01",
+				"overrideLabel": "",
+				"labelIndex": 11,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 7,
+						"y": 3,
+						"z": 9
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 3500,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayDominationNeutralObjective",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 20,
+						"y": 20,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": -495
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Rectangle",
+					"RoundConfig": 0,
+					"CapturePointLabelIndex": 3
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 18,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 5,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -695,
+						"y": -1400,
+						"z": -640
+					},
+					"rotation":
+					{
+						"x": 0.075786993879068898,
+						"y": -0.020307136959882746,
+						"z": -0.25802204343639829,
+						"w": 0.96294785780340741
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayKothObjective",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 7,
+						"y": 60,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 4000
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"GroupNumber": 7
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 4
+					},
+					"translation":
+					{
+						"x": 138,
+						"y": -2020,
+						"z": 1049.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 12,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 20,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": 5000,
+						"y": 0,
+						"z": 1650
+					},
+					"rotation":
+					{
+						"x": -0.25881904712649245,
+						"y": -2.4268249984348776e-08,
+						"z": 0.9659258257467459,
+						"w": 3.2687900733938758e-08
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 16,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3500,
+						"y": 650,
+						"z": -420.0999755859375
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveBlockAngled01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": 965,
+						"y": 1750,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.96592569110123705,
+						"w": 0.25881954962984915
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Disco",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3800,
+						"y": 400,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 1,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -1900,
+						"z": 4020
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 80,
+					"PickupRespawnTime": 120,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "334E5E8E444A78CB1A9FC8B54D9567A7"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 35,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 600,
+						"y": -5350,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.60876012497699483,
+						"w": 0.79335434090826884
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 19,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 5,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -695,
+						"y": 1400,
+						"z": -640
+					},
+					"rotation":
+					{
+						"x": -0.075787388918464968,
+						"y": -0.020307250623740752,
+						"z": 0.25802213338339547,
+						"w": 0.96294780021416915
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplaySplitballSpawner",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 400,
+						"z": 2250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinder01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": true,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 55,
+						"y": 20,
+						"z": 0.40000000596046448
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": -545
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Disco",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayKothObjective",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 8,
+						"y": 8,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": -495
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"GroupNumber": 4
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 30,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3700,
+						"y": 200,
+						"z": -420.0999755859375
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 21,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 5,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -3700,
+						"y": -1000,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.99144448150555586,
+						"w": 0.13052907757346263
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCircularCreative",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 11
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 4950,
+						"z": 1950
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710648316325575,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_NSCreativeFireworkSingle01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.5,
+						"y": 0.5,
+						"z": 0.5
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 1100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"SpawnRate": 1,
+					"Scale": 0.5,
+					"Color":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": 2000,
+						"y": 7000,
+						"z": -600
+					},
+					"rotation":
+					{
+						"x": -0.037775489737993509,
+						"y": -0.021809683711418851,
+						"z": -0.86520115929510222,
+						"w": 0.49952407752367001
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 4000,
+					"bShowLaunchCosmetics": true,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": true,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 100,
+						"y": 23,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": -600
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Wood_Planks",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 0.29506015777587891,
+										"G": 0.13030983507633209,
+										"B": 0.4765625,
+										"A": 1
+									},
+									"EmissiveIntensity": 50,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 23,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3300,
+						"y": -550,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 16,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 13,
+						"y": 40,
+						"z": 0.20000000298023224
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -5000,
+						"z": 600
+					},
+					"rotation":
+					{
+						"x": -0.70710648316325575,
+						"y": -0,
+						"z": 0,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayDominationNeutralObjective",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 35,
+						"y": 30,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"RoundConfig": 0,
+					"CapturePointLabelIndex": 2
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplaySplitballCaptureZone",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3100,
+						"y": 0,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"ObjectiveTeam":
+					{
+						"TeamID": 0
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 46,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 1850,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710648316325575,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 40,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -600,
+						"y": 5350,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.60875958582676748,
+						"w": 0.79335475461108995
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 11,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": true,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 3,
+						"y": 6,
+						"z": 110
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0.10000000149011612
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Ancient_Text",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0,
+						"G": 0,
+						"B": 0,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 11,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 5
+					},
+					"translation":
+					{
+						"x": 200,
+						"y": 0,
+						"z": 2400
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 20,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 20,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -5000,
+						"y": 0,
+						"z": 1650
+					},
+					"rotation":
+					{
+						"x": 5.0044204047376915e-08,
+						"y": 0.25881904712649167,
+						"z": -6.3509355061214019e-08,
+						"w": 0.96592582574674357
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 4
+					},
+					"translation":
+					{
+						"x": 138,
+						"y": 2020,
+						"z": 1049.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": true,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 75,
+						"y": 45,
+						"z": 2
+					},
+					"translation":
+					{
+						"x": 2000,
+						"y": 0,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0.34202002971918144,
+						"z": 0,
+						"w": 0.93969266213528035
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.030713438987731934,
+						"B": 0.030713438987731934,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCircularCreative",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 9
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -5900,
+						"z": 1550
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710648316325575,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinder01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 15,
+						"y": 13,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 1600,
+						"z": 1600
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 44,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 300,
+						"y": 2950,
+						"z": 580
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.25881973136665953,
+						"w": 0.96592564240488532
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -1800,
+						"y": 0,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": true,
+					"RelativeDestination":
+					{
+						"X": 600,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.30000001192092896
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": 5,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2,
+						"y": 2.7999999523162842,
+						"z": 3.2999999523162842
+					},
+					"translation":
+					{
+						"x": -1000,
+						"y": 2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplaySplitballSpawner",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2800,
+						"z": 4050
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": -2,
+						"y": 2.7999999523162842,
+						"z": 2.2999999523162842
+					},
+					"translation":
+					{
+						"x": -1000,
+						"y": -2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": -1.2094313108506335e-08,
+						"y": -5.455477490917791e-08,
+						"z": 0.97629672273172874,
+						"w": 0.21643638599663112
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": true,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 80,
+						"y": 80,
+						"z": 5
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": -0.10000000149011612
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Fracture_Terrain",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 42,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -600,
+						"y": -5350,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.60875995485588463,
+						"w": 0.79335447144631477
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayKothObjective",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 12,
+						"y": 12,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 1600,
+						"y": 2850,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"GroupNumber": 3
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": -350
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 30,
+					"PickupRespawnTime": 85,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "1624541849340FA32BDCC3A8A79CE96E"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayDominationNeutralObjective",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 15,
+						"y": 16,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 4000
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"RoundConfig": 0,
+					"CapturePointLabelIndex": 0
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 29,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -830,
+						"y": 1700,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": -2,
+						"y": 2.7999999523162842,
+						"z": 3.2999999523162842
+					},
+					"translation":
+					{
+						"x": -1000,
+						"y": -2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": -2.442563387704682e-15,
+						"y": 5.5879336713360198e-08,
+						"z": -0.99999999999999734,
+						"w": 4.3711388347970185e-08
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveHexagonTube01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 15,
+						"y": 15,
+						"z": 9.6000003814697266
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Brick",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 29,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3950,
+						"y": 350,
+						"z": -420.0999755859375
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5700,
+						"y": 0,
+						"z": -500
+					},
+					"rotation":
+					{
+						"x": 0.17364819698482389,
+						"y": 7.5904040099087637e-09,
+						"z": -0.98480774960594086,
+						"w": 4.3047312337675192e-08
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": true,
+					"RelativeDestination":
+					{
+						"X": 1700,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.12999999523162842
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 21,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3350,
+						"y": 0,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 3,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCircularCreative",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2.5,
+						"z": 7
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -6900,
+						"z": 1200
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710648316325575,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayKothObjective",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 12,
+						"y": 12,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -1600,
+						"y": 2850,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"GroupNumber": 6
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 39,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 600,
+						"y": 5350,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.60875975594794041,
+						"w": 0.79335462407312163
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 12,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3100,
+						"y": 1650,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplaySplitballSpawner",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -400,
+						"z": 2250
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2200,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 65,
+					"PickupRespawnTime": 200,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "8F265B1443CFE66E8125F6B4C19C3089"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinder01",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 15,
+						"y": 13,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -1600,
+						"z": 1600
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 37,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -300,
+						"y": -2950,
+						"z": 580
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.96592544416130499,
+						"w": 0.25882047121853768
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 7450,
+						"z": 920
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 50,
+					"PickupRespawnTime": 150,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "A6CA3A394267C5247E093B80CE95B37F"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 19,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3000,
+						"y": 1550,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 23,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 75,
+						"y": 10,
+						"z": 6
+					},
+					"translation":
+					{
+						"x": -2000,
+						"y": 0,
+						"z": 1000
+					},
+					"rotation":
+					{
+						"x": -8.0688006226360591e-09,
+						"y": -0.79335366612866698,
+						"z": 8.0688006226360591e-09,
+						"w": 0.60876100436887626
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0,
+						"G": 0.031896006315946579,
+						"B": 0.98225057125091553,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 17,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 5,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": 695,
+						"y": -1400,
+						"z": -640
+					},
+					"rotation":
+					{
+						"x": -0.020307010445389604,
+						"y": 0.075786636793755122,
+						"z": -0.96294798390648284,
+						"w": 0.25802168765571293
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 16,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 5,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": 695,
+						"y": 1400,
+						"z": -640
+					},
+					"rotation":
+					{
+						"x": 0.020306962323245772,
+						"y": 0.075786451673595878,
+						"z": 0.96294799844679213,
+						"w": 0.25802169155178517
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 14,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4050,
+						"y": 350,
+						"z": -420.0999755859375
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveHexagonTube01",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 7,
+						"y": 3,
+						"z": 13
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2500,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 13,
+				"groupIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": -2,
+						"y": 2.7999999523162842,
+						"z": 1.1000000238418579
+					},
+					"translation":
+					{
+						"x": 1000,
+						"y": 2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": -5.1625710894345887e-08,
+						"y": 2.1384070859776201e-08,
+						"z": -0.38268345130887177,
+						"w": 0.92387952466451317
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -7450,
+						"z": 920
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 50,
+					"PickupRespawnTime": 150,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "A6CA3A394267C5247E093B80CE95B37F"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 40
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -370,
+						"z": 5150
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710648316325575,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 24,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 4
+					},
+					"translation":
+					{
+						"x": -138,
+						"y": 2020,
+						"z": 1049.9000244140625
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3450,
+						"y": 0,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 3,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCube01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": -20,
+						"y": 0.75,
+						"z": 6.25
+					},
+					"translation":
+					{
+						"x": 710,
+						"y": -1150,
+						"z": -600
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.99904818219239433,
+						"w": 0.043620289523027218
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.030713438987731934,
+						"B": 0.030713438987731934,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_NSCreativeFireworkSingle01",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.5,
+						"y": 0.5,
+						"z": 0.5
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 1100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"SpawnRate": 1,
+					"Scale": 0.5,
+					"Color":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 26,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3150,
+						"y": -950,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayKothObjective",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 12,
+						"y": 12,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 1600,
+						"y": -2850,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"GroupNumber": 5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3350,
+						"y": 1450,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 4,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 34,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -950,
+						"y": -5250,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.60876029509807217,
+						"w": 0.79335421037019027
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2,
+						"y": 2.7999999523162842,
+						"z": 3.2999999523162842
+					},
+					"translation":
+					{
+						"x": 1100,
+						"y": -2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 13,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 13,
+						"y": 40,
+						"z": 0.20000000298023224
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 5000,
+						"z": 600
+					},
+					"rotation":
+					{
+						"x": -0.70710648316325575,
+						"y": -0,
+						"z": 0,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4050,
+						"y": -350,
+						"z": -420.0999755859375
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplaySplitballSpawner",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2500,
+						"z": -450
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 23,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 5
+					},
+					"translation":
+					{
+						"x": -200,
+						"y": 0,
+						"z": 2400
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 47,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -1850,
+						"z": 180
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710648316325575,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 27,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3250,
+						"y": -1450,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 4,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 14,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 5,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": 3700,
+						"y": 1000,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.13052760435206656,
+						"w": 0.99144467546208048
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -5700,
+						"y": 0,
+						"z": -500
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0.17364819698482409,
+						"z": 0,
+						"w": 0.98480774960594197
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": true,
+					"RelativeDestination":
+					{
+						"X": 1700,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.14000000059604645
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCircularCreative",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 9
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 5950,
+						"z": -350
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710648316325575,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveHexagonTube01",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 10,
+						"y": 3,
+						"z": 16
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 1500,
+						"z": 0.10000000149011612
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 20,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 75,
+						"y": 10,
+						"z": 6
+					},
+					"translation":
+					{
+						"x": 2600,
+						"y": 0,
+						"z": 1000
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0.60876100436887626,
+						"z": 0,
+						"w": 0.79335366612866742
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.030713438987731934,
+						"B": 0.030713438987731934,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 15,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 13,
+						"y": 20,
+						"z": 0.20000000298023224
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 7000,
+						"z": 600
+					},
+					"rotation":
+					{
+						"x": -0.70710648316325575,
+						"y": -0,
+						"z": 0,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 33,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3950,
+						"y": -350,
+						"z": -420.0999755859375
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 1900,
+						"z": 4020
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 80,
+					"PickupRespawnTime": 120,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "334E5E8E444A78CB1A9FC8B54D9567A7"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayDominationNeutralObjective",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 20,
+						"y": 7,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 2000
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"RoundConfig": 0,
+					"CapturePointLabelIndex": 1
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 20,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3050,
+						"y": 650,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 19,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 10,
+						"y": 6,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4500,
+						"y": 400,
+						"z": -500
+					},
+					"rotation":
+					{
+						"x": -0.50000001490116319,
+						"y": 0.49999998509883653,
+						"z": -0.5000000149011633,
+						"w": -0.49999998509883642
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.030713438987731934,
+						"B": 0.030713438987731934,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveHexagonTube01",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 6,
+						"y": 3,
+						"z": 12.5
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2700,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 45,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -300,
+						"y": 2950,
+						"z": 580
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.96592544416130499,
+						"w": 0.25882047121853768
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": true,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 45,
+						"y": 110,
+						"z": 2
+					},
+					"translation":
+					{
+						"x": 100,
+						"y": 0,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": -1.2325951644078309e-32,
+						"y": -0.70710678118654746,
+						"z": 6.1629758220391547e-33,
+						"w": 0.70710678118654735
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Brick",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplaySplitballSpawner",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2800,
+						"z": 4050
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 11,
+				"groupIndex": 5,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2,
+						"y": 2.7999999523162842,
+						"z": 2.2999999523162842
+					},
+					"translation":
+					{
+						"x": -1000,
+						"y": 2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": -5.4554782696523733e-08,
+						"y": -1.2094264405570076e-08,
+						"z": 0.21643552450436895,
+						"w": 0.97629691371657801
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplaySplitballCaptureZone",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3100,
+						"y": 0,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"ObjectiveTeam":
+					{
+						"TeamID": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 26,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 4
+					},
+					"translation":
+					{
+						"x": -138,
+						"y": -2020,
+						"z": 1049.9000244140625
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2,
+						"y": 2.7999999523162842,
+						"z": 3.2999999523162842
+					},
+					"translation":
+					{
+						"x": 1100,
+						"y": -2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 26,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 10,
+						"y": 6,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -4500,
+						"y": 400,
+						"z": -500
+					},
+					"rotation":
+					{
+						"x": -0.50000001490116319,
+						"y": 0.49999998509883653,
+						"z": -0.5000000149011633,
+						"w": -0.49999998509883642
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0,
+						"G": 0.031896006315946579,
+						"B": 0.98225057125091553,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 22,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3700,
+						"y": 450,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 2,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 22,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 5,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -3700,
+						"y": 1000,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.99144462146756263,
+						"w": 0.13052801447597784
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 31,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3400,
+						"y": -650,
+						"z": -420.0999755859375
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3050,
+						"y": -250,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCube01",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": -20,
+						"y": 0.75,
+						"z": 6.25
+					},
+					"translation":
+					{
+						"x": -710,
+						"y": 1150,
+						"z": -600
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.043620153624698628,
+						"w": 0.99904818812595719
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0,
+						"G": 0.031896006315946579,
+						"B": 0.98225057125091553,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_GameplayKothObjective",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 12,
+						"y": 12,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -1600,
+						"y": -2850,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"HillShapes": "Circle",
+					"GroupNumber": 2
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveHexagonTube01",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 18,
+						"y": 6,
+						"z": 20
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Brick",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 14,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 13,
+						"y": 30,
+						"z": 0.20000000298023224
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 6000,
+						"z": 600
+					},
+					"rotation":
+					{
+						"x": -0.70710648316325575,
+						"y": -0,
+						"z": 0,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveBlockAngled01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": -1,
+						"y": 2,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": 1010,
+						"y": -1750,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": -5.3975291369238439e-08,
+						"y": -1.4462676066860497e-08,
+						"z": 0.25881972711786611,
+						"w": 0.96592564354334753
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Disco",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 24,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 10,
+						"y": 6,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -4500,
+						"y": -300,
+						"z": -500
+					},
+					"rotation":
+					{
+						"x": -0.50000001490116319,
+						"y": 0.49999998509883653,
+						"z": -0.5000000149011633,
+						"w": -0.49999998509883642
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0,
+						"G": 0.031896006315946579,
+						"B": 0.98225057125091553,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -4550,
+						"y": 0,
+						"z": -500
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": true,
+					"RelativeDestination":
+					{
+						"X": 700,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.25
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 15,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4050,
+						"y": 200,
+						"z": -420.0999755859375
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 27,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 5.5
+					},
+					"translation":
+					{
+						"x": -138,
+						"y": -3120,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCircularCreative",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 9
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -5900,
+						"z": -350
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710648316325575,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 43,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 950,
+						"y": -5250,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.60876012497699483,
+						"w": 0.79335434090826884
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 14,
+				"groupIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": -2,
+						"y": 2.7999999523162842,
+						"z": 2.2999999523162842
+					},
+					"translation":
+					{
+						"x": 1000,
+						"y": 2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": -5.4554783298617715e-08,
+						"y": 1.2094242362464081e-08,
+						"z": -0.21643515391188761,
+						"w": 0.97629699587325069
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": 2000,
+						"y": -7000,
+						"z": -600
+					},
+					"rotation":
+					{
+						"x": 0.037775489737993474,
+						"y": -0.021809683711418906,
+						"z": 0.86520115929510222,
+						"w": 0.49952407752366984
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 4000,
+					"bShowLaunchCosmetics": true,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": 830,
+						"y": 1700,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": -520
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": true,
+					"RelativeDestination":
+					{
+						"X": 1,
+						"Y": 0,
+						"Z": 0
+					},
+					"ArcPercentage": 9.9999997473787516e-05
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveHexagonTube01",
+				"overrideLabel": "",
+				"labelIndex": 10,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 6,
+						"y": 3,
+						"z": 12.5
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2700,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Metal_Scratched",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 5.5
+					},
+					"translation":
+					{
+						"x": 138,
+						"y": 3120,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCircularCreative",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 11
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -4900,
+						"z": 1950
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710648316325575,
+						"w": 0.70710707920971383
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 38,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 950,
+						"y": 5250,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.79335493602458451,
+						"w": 0.60875934940288801
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": true,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 200,
+						"y": 50,
+						"z": 0.40000000596046448
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": -0.68301184420715411,
+						"y": -0.18301590278645899,
+						"z": -0.68301184420715422,
+						"w": 0.18301590278645896
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Disco",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 36,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 300,
+						"y": -2950,
+						"z": 580
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.25881973136665953,
+						"w": 0.96592564240488532
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": true,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 75,
+						"y": 45,
+						"z": 2
+					},
+					"translation":
+					{
+						"x": -1700,
+						"y": 0,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": -2.612509987694391e-08,
+						"y": -0.93969266213527947,
+						"z": 2.6125099876943913e-08,
+						"w": 0.34202002971918105
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0,
+						"G": 0.031896006315946579,
+						"B": 0.98225057125091553,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 32,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3950,
+						"y": -200,
+						"z": -420.0999755859375
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": 870,
+						"y": -1680,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.99965730817033926,
+						"w": 0.026177590065393677
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveBlockAngled01",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -1010,
+						"y": -1750,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": -5.3975292266468683e-08,
+						"y": 1.4462676517058811e-08,
+						"z": -0.25881973136665909,
+						"w": 0.96592564240488366
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Disco",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCylinderTube01",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": true,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 7,
+						"y": 60,
+						"z": 0.20000000298023224
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 4000
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Glacier_Terrain",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 28,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -870,
+						"y": -1680,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.026177262464499376,
+						"w": 0.99965731674902736
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveCube01",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 20,
+						"y": 0.75,
+						"z": 6.25
+					},
+					"translation":
+					{
+						"x": -710,
+						"y": -1150,
+						"z": -600
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.99904818222587588,
+						"w": 0.043620288756189569
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0,
+						"G": 0.031896006315946579,
+						"B": 0.98225057125091553,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 10,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 2,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -2000,
+						"y": -7000,
+						"z": -600
+					},
+					"rotation":
+					{
+						"x": 0.021809647052794964,
+						"y": -0.037775509393767281,
+						"z": 0.49952310765826147,
+						"w": 0.8652017193122693
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 4000,
+					"bShowLaunchCosmetics": true,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 25,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 3,
+						"z": 5.5
+					},
+					"translation":
+					{
+						"x": -138,
+						"y": 3120,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_NSCreativeFireworkSingle01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.5,
+						"y": 0.5,
+						"z": 0.5
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 1100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"SpawnRate": 1,
+					"Scale": 0.5,
+					"Color":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 750,
+						"y": 0,
+						"z": 2000
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 110,
+					"PickupRespawnTime": 180,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "F323F86E4841627C5922B6874F33DFD5"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMPrimitiveBlockAngled01",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": -1,
+						"y": 2,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -965,
+						"y": 1750,
+						"z": 100
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.96592569142421447,
+						"w": 0.25881954842448379
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Disco",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 13,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3100,
+						"y": -1550,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2,
+						"y": 2.7999999523162842,
+						"z": 1.1000000238418579
+					},
+					"translation":
+					{
+						"x": 1100,
+						"y": -2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.38268336511216511,
+						"w": 0.92387956036835739
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 24,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2950,
+						"y": 250,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4550,
+						"y": 0,
+						"z": -500
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": true,
+					"RelativeDestination":
+					{
+						"X": 700,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.25
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2200,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 65,
+					"PickupRespawnTime": 200,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "8F265B1443CFE66E8125F6B4C19C3089"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 17,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -3450,
+						"y": 1350,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3150,
+						"y": -650,
+						"z": 579.9000244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2,
+						"y": 2.7999999523162842,
+						"z": 2.2999999523162842
+					},
+					"translation":
+					{
+						"x": 1100,
+						"y": -2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.21643759949671715,
+						"w": 0.97629645370865648
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": -2,
+						"y": 2.7999999523162842,
+						"z": 1.1000000238418579
+					},
+					"translation":
+					{
+						"x": -1000,
+						"y": -2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": -2.1384076472567658e-08,
+						"y": -5.1625723507054227e-08,
+						"z": 0.9238795153941326,
+						"w": 0.38268347368954819
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 12,
+				"groupIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": -2,
+						"y": 2.7999999523162842,
+						"z": 3.2999999523162842
+					},
+					"translation":
+					{
+						"x": 1000,
+						"y": 2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 10,
+				"groupIndex": 5,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2,
+						"y": 2.7999999523162842,
+						"z": 1.1000000238418579
+					},
+					"translation":
+					{
+						"x": -1000,
+						"y": 2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": -5.1625712593803649e-08,
+						"y": -2.1384071759385228e-08,
+						"z": 0.3826834624992097,
+						"w": 0.92387952002932294
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureGrassPatch03",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2,
+						"y": 2.7999999523162842,
+						"z": 1.1000000238418579
+					},
+					"translation":
+					{
+						"x": 1100,
+						"y": -2800,
+						"z": 499.89999389648438
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.38268336511216511,
+						"w": 0.92387956036835739
+					}
+				},
+				"properties":
+				{
+				}
+			}
+		]
+	}
+}

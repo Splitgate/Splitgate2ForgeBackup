@@ -1,0 +1,2425 @@
+{
+	"metaData":
+	{
+		"mapDataAssetName": "MapData_Creative_WetOcean",
+		"bWasCustomized": true
+	},
+	"contents":
+	{
+		"customActorGroups": [
+			{
+				"overrideLabel": "Team Spawns",
+				"labelIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "Team Spawns",
+				"labelIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			}
+		],
+		"customActors": [
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 10,
+						"z": 5
+					},
+					"translation":
+					{
+						"x": 3275,
+						"y": -14625,
+						"z": 550
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 0,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCircularCreative",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 5,
+						"z": 5
+					},
+					"translation":
+					{
+						"x": 9475,
+						"y": -17000,
+						"z": 150
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.99619467307921705,
+						"w": 0.087156028641694638
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2928.5576171875,
+						"y": -14203.208984375,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 3,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2711.06982421875,
+						"y": -14255.162109375,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 1,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3017.4873046875,
+						"y": -13998.046875,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 2,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3222.6494140625,
+						"y": -14086.9775390625,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 5,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2763.02294921875,
+						"y": -14472.6494140625,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 4,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 41,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2710,
+						"y": -7240,
+						"z": 685.308837890625
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3038.62646484375,
+						"y": -14567.7421875,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 40,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2740,
+						"y": -7200,
+						"z": 685.308837890625
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3268.43994140625,
+						"y": -14374.9072265625,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 39,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2610,
+						"y": -7190,
+						"z": 685.308837890625
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2770.510986328125,
+						"y": -14792.71875,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 38,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2640,
+						"y": -7310,
+						"z": 685.308837890625
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 10,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2655.604248046875,
+						"y": -14889.1357421875,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 37,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2730,
+						"y": -7300,
+						"z": 685.308837890625
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 12,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2540.697509765625,
+						"y": -14985.5546875,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 36,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2790,
+						"y": -7130,
+						"z": 640
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3536.555419921875,
+						"y": -14149.9296875,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 35,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2560,
+						"y": -7120,
+						"z": 640
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 26,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3826.36865234375,
+						"y": -14037.09375,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 3.7999999523162842,
+						"y": 0.69999998807907104,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -2890,
+						"y": -7230,
+						"z": 680
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710666197724581,
+						"w": 0.70710690039582913
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": true,
+					"bHasPhysicsCollision": true,
+					"bHasPortalGunCollision": true,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 3.7999999523162842,
+						"y": 0.69999998807907104,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -2660,
+						"y": -7000,
+						"z": 680
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": true,
+					"bHasPhysicsCollision": true,
+					"bHasPortalGunCollision": true,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSSLCreativePortalCube5x35",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2960,
+						"y": -7530,
+						"z": 550
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.73791098594665527,
+						"G": 0.015995999798178673,
+						"B": 0,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 3.7999999523162842,
+						"y": 0.69999998807907104,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -2430,
+						"y": -7230,
+						"z": 680
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710672158189936,
+						"w": 0.70710684079119068
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": true,
+					"bHasPhysicsCollision": true,
+					"bHasPortalGunCollision": true,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLWindowA6x4",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.67150098085403442,
+						"y": 0.59999990463256836,
+						"z": 0.75
+					},
+					"translation":
+					{
+						"x": -2400,
+						"y": -7430,
+						"z": 550
+					},
+					"rotation":
+					{
+						"x": -5.2655791296927606e-08,
+						"y": -5.2655752217078119e-08,
+						"z": 0.7071065129655999,
+						"w": 0.70710704940738944
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 3.7999999523162842,
+						"y": 0.69999998807907104,
+						"z": 2.5
+					},
+					"translation":
+					{
+						"x": -2660,
+						"y": -7460,
+						"z": 680
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": true,
+					"bHasPhysicsCollision": true,
+					"bHasPortalGunCollision": true,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLWindowA6x4",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.67150098085403442,
+						"y": 0.59999990463256836,
+						"z": 0.75
+					},
+					"translation":
+					{
+						"x": -2860,
+						"y": -7490,
+						"z": 550
+					},
+					"rotation":
+					{
+						"x": -7.4466491639665485e-08,
+						"y": 2.1021754616345897e-14,
+						"z": -2.822981740306335e-07,
+						"w": 0.99999999999995737
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 28,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2670,
+						"y": -7240,
+						"z": 640
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLWindowA6x4",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.67150098085403442,
+						"y": 0.59999990463256836,
+						"z": 0.75
+					},
+					"translation":
+					{
+						"x": -2860,
+						"y": -7430,
+						"z": 550
+					},
+					"rotation":
+					{
+						"x": -5.2655791296927606e-08,
+						"y": -5.2655752217078119e-08,
+						"z": 0.7071065129655999,
+						"w": 0.70710704940738944
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA4x4",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2860,
+						"y": -7430,
+						"z": 510
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA4x4",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2860,
+						"y": -7420,
+						"z": 850
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 13,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3766.36865234375,
+						"y": -13957.09375,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 11,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3651.462158203125,
+						"y": -14053.5126953125,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 14,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2988.5576171875,
+						"y": -14283.208984375,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 3,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 15,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2771.06982421875,
+						"y": -14335.162109375,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 1,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 16,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3077.4873046875,
+						"y": -14078.046875,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 2,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 17,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3282.6494140625,
+						"y": -14166.9775390625,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 5,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 18,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2823.02294921875,
+						"y": -14552.6494140625,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 4,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 19,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3098.62646484375,
+						"y": -14647.7421875,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 34,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2570,
+						"y": -7350,
+						"z": 640
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 20,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3328.43994140625,
+						"y": -14454.9072265625,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 33,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2770,
+						"y": -7320,
+						"z": 640
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 21,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2830.510986328125,
+						"y": -14872.71875,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 32,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2670,
+						"y": -7140,
+						"z": 640
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 22,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2715.604248046875,
+						"y": -14969.1357421875,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 31,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2570,
+						"y": -7250,
+						"z": 640
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 23,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2600.697509765625,
+						"y": -15065.5546875,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 30,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2670,
+						"y": -7340,
+						"z": 640
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 24,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3596.555419921875,
+						"y": -14229.9296875,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 25,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 3711.462158203125,
+						"y": -14133.5126953125,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "Respawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 29,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -2770,
+						"y": -7230,
+						"z": 640
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071068407911909,
+						"w": 0.70710672158189913
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMFractureFracturedLand01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 350,
+						"y": -11650,
+						"z": 550
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMDroughtSlopeWideCurved",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -1675,
+						"y": -18550,
+						"z": -200
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.64278739935124485,
+						"w": 0.76604461961119685
+					}
+				},
+				"properties":
+				{
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2800,
+						"y": -14050,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 27,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 2860,
+						"y": -14130,
+						"z": 630
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.90630778993616246,
+						"w": 0.42261825552267462
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLWindowA6x4",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 0.67150098085403442,
+						"y": 0.59999990463256836,
+						"z": 0.75
+					},
+					"translation":
+					{
+						"x": -2460,
+						"y": -6970,
+						"z": 550
+					},
+					"rotation":
+					{
+						"x": -4.1973208756994951e-14,
+						"y": -7.4466491639656618e-08,
+						"z": 0.99999999999983835,
+						"w": 5.6365229290103442e-07
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			}
+		]
+	}
+}

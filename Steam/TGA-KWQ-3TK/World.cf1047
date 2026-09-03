@@ -1,0 +1,5045 @@
+{
+	"metaData":
+	{
+		"mapDataAssetName": "MapData_Creative_FlatEarth",
+		"bWasCustomized": true
+	},
+	"contents":
+	{
+		"customActorGroups": [
+			{
+				"overrideLabel": "portal stuff",
+				"labelIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			}
+		],
+		"customActors": [
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5150,
+						"y": -900,
+						"z": 80
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.38268339055003958,
+						"w": 0.92387954983164633
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6350,
+						"y": -1050,
+						"z": 80
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.86602542770447621,
+						"w": 0.49999995856927715
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 4.25
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -3230.796875,
+						"z": -7.9543609619140625
+					},
+					"rotation":
+					{
+						"x": 0.50000011920928966,
+						"y": -0.49999988079068214,
+						"z": 0.50000011920928977,
+						"w": 0.49999988079068203
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 2000,
+					"bShowLaunchCosmetics": true,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA8x8",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4300,
+						"y": -2500,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA8x8",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4300,
+						"y": -1700,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA8x8",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4300,
+						"y": 350,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA8x8",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6500,
+						"y": 350,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA8x8",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6500,
+						"y": -1650,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA8x8",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6500,
+						"y": -2400,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA2x2",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5800,
+						"y": -2200,
+						"z": 300
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA2x2",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6000,
+						"y": -2200,
+						"z": 300
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA2x2",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6200,
+						"y": -2200,
+						"z": 300
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLWindowA8x4",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5000,
+						"y": -2100,
+						"z": 400
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCrateA4x4",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5000,
+						"y": -2250,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.078186996281147003,
+						"B": 0.088656000792980194,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCrateB4x4",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5400,
+						"y": -2250,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.078186996281147003,
+						"B": 0.088656000792980194,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCrateC1x1",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6200,
+						"y": -2100,
+						"z": 200
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.078186996281147003,
+						"B": 0.088656000792980194,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCrateB1x1",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6200,
+						"y": -2200,
+						"z": 200
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.078186996281147003,
+						"B": 0.088656000792980194,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCrateB2x2",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6300,
+						"y": -2200,
+						"z": 200
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.078186996281147003,
+						"B": 0.088656000792980194,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCrateA1x1",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6100,
+						"y": -2100,
+						"z": 200
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.078186996281147003,
+						"B": 0.088656000792980194,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCrateA1x1",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6100,
+						"y": -2200,
+						"z": 200
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.078186996281147003,
+						"B": 0.088656000792980194,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCrateA3x3",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5800,
+						"y": -2200,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.078186996281147003,
+						"B": 0.088656000792980194,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCrateA2x2",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6100,
+						"y": -2200,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.078186996281147003,
+						"B": 0.088656000792980194,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCrateA2x2",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6300,
+						"y": -2200,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 1,
+						"G": 0.078186996281147003,
+						"B": 0.088656000792980194,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCylinderA4x4",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6100,
+						"y": 0,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCylinderA4x4",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6100,
+						"y": -750,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCylinderA4x4",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5400,
+						"y": -700,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA1x1",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5700,
+						"y": -430.796875,
+						"z": 942.045654296875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -400,
+						"z": 1050
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710666197724603,
+						"w": 0.70710690039582913
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 30,
+					"PickupRespawnTime": 120,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "F323F86E4841627C5922B6874F33DFD5"
+						},
+						{
+							"ItemDefinition": "334E5E8E444A78CB1A9FC8B54D9567A7"
+						},
+						{
+							"ItemDefinition": "EAFC0EB7484E50CA47273481AFC5F8B4"
+						},
+						{
+							"ItemDefinition": "A6CA3A394267C5247E093B80CE95B37F"
+						},
+						{
+							"ItemDefinition": "8F265B1443CFE66E8125F6B4C19C3089"
+						},
+						{
+							"ItemDefinition": "1624541849340FA32BDCC3A8A79CE96E"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6350,
+						"y": 200,
+						"z": 80
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.96592578849383448,
+						"w": 0.25881918615621313
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5200,
+						"y": 300,
+						"z": 80
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.3826833905500393,
+						"w": 0.92387954983164655
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 0
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5100,
+						"y": -3950,
+						"z": 80
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.25881907493243805,
+						"w": 0.96592581829616564
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5200,
+						"y": -2800,
+						"z": 80
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.3826833905500393,
+						"w": 0.92387954983164655
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6350,
+						"y": -2850,
+						"z": 80
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.92387952002932461,
+						"w": 0.38268346249921048
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6350,
+						"y": -4150,
+						"z": 80
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.86602542770447621,
+						"w": 0.49999995856927715
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_OutOfBounds",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 77.25,
+						"z": 83
+					},
+					"translation":
+					{
+						"x": 5800,
+						"y": -4700,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710672158189936,
+						"w": 0.70710684079119079
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_OutOfBounds",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 77.25,
+						"z": 83
+					},
+					"translation":
+					{
+						"x": 4350,
+						"y": -2550,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_OutOfBounds",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 77.25,
+						"z": 83
+					},
+					"translation":
+					{
+						"x": 5800,
+						"y": 1200,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710672158189936,
+						"w": 0.70710684079119079
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_OutOfBounds",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 77.25,
+						"z": 83
+					},
+					"translation":
+					{
+						"x": 7500,
+						"y": -2550,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA6x6",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6900,
+						"y": -500,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA6x6",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6850,
+						"y": -3700,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -3800,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.7071066023725876,
+						"w": 0.70710696000046247
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 5450,
+						"y": -3450,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalLauncher6x6",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5450,
+						"y": -3442.9287109375,
+						"z": -492.928955078125
+					},
+					"rotation":
+					{
+						"x": 0.38268336511216505,
+						"y": 0,
+						"z": 0,
+						"w": 0.92387956036835739
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA6x6",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4100,
+						"y": -3650,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA4x4",
+				"overrideLabel": "",
+				"labelIndex": 11,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4300,
+						"y": -3150,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA4x4",
+				"overrideLabel": "",
+				"labelIndex": 10,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4300,
+						"y": -4000,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA6x6",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5150,
+						"y": -5050,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA4x4",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -4900,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA4x4",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6100,
+						"y": -4750,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA4x4",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6900,
+						"y": -3950,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA4x4",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6900,
+						"y": -3150,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA4x4",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6900,
+						"y": -850,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA4x4",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6900,
+						"y": -50,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA4x4",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4300,
+						"y": -500,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA8x8",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4300,
+						"y": -4800,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA8x8",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4300,
+						"y": -2750,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA8x8",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6500,
+						"y": -4750,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA8x8",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6500,
+						"y": -2750,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCylinderA4x4",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5400,
+						"y": -3050,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCylinderA4x4",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6100,
+						"y": -3100,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCylinderA4x4",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6100,
+						"y": -3850,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCylinderA4x4",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5400,
+						"y": -3800,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA1x1",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5700,
+						"y": -3530.796875,
+						"z": 942.045654296875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -3500,
+						"z": 1050
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710660237258749,
+						"w": 0.70710696000046247
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 30,
+					"PickupRespawnTime": 120,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "F323F86E4841627C5922B6874F33DFD5"
+						},
+						{
+							"ItemDefinition": "334E5E8E444A78CB1A9FC8B54D9567A7"
+						},
+						{
+							"ItemDefinition": "EAFC0EB7484E50CA47273481AFC5F8B4"
+						},
+						{
+							"ItemDefinition": "A6CA3A394267C5247E093B80CE95B37F"
+						},
+						{
+							"ItemDefinition": "8F265B1443CFE66E8125F6B4C19C3089"
+						},
+						{
+							"ItemDefinition": "1624541849340FA32BDCC3A8A79CE96E"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA4x4",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4300,
+						"y": -900,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -4350,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710684079119079,
+						"w": 0.70710672158189936
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -3500,
+						"z": 1050
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 30,
+					"PickupRespawnTime": 120,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "F323F86E4841627C5922B6874F33DFD5"
+						},
+						{
+							"ItemDefinition": "334E5E8E444A78CB1A9FC8B54D9567A7"
+						},
+						{
+							"ItemDefinition": "EAFC0EB7484E50CA47273481AFC5F8B4"
+						},
+						{
+							"ItemDefinition": "A6CA3A394267C5247E093B80CE95B37F"
+						},
+						{
+							"ItemDefinition": "8F265B1443CFE66E8125F6B4C19C3089"
+						},
+						{
+							"ItemDefinition": "1624541849340FA32BDCC3A8A79CE96E"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4900,
+						"y": -3500,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6600,
+						"y": -3500,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_NSCreativeFireSmall01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -3480.796875,
+						"z": 1092.045654296875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"SpawnRate": 1,
+					"Scale": 1,
+					"Color":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_NSCreativeSmoke01",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -3530.796875,
+						"z": 1092.045654296875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.13052665843271088,
+						"w": 0.99144479999563773
+					}
+				},
+				"properties":
+				{
+					"SpawnRate": 1,
+					"Scale": 1,
+					"Color":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 5800,
+						"y": -3092.9287109375,
+						"z": 7.071044921875
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710660237258749,
+						"w": 0.70710696000046247
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 6100,
+						"y": -3450,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": 450,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710666197724603,
+						"w": 0.70710690039582913
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -400,
+						"z": 1050
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 30,
+					"PickupRespawnTime": 120,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "F323F86E4841627C5922B6874F33DFD5"
+						},
+						{
+							"ItemDefinition": "334E5E8E444A78CB1A9FC8B54D9567A7"
+						},
+						{
+							"ItemDefinition": "EAFC0EB7484E50CA47273481AFC5F8B4"
+						},
+						{
+							"ItemDefinition": "A6CA3A394267C5247E093B80CE95B37F"
+						},
+						{
+							"ItemDefinition": "8F265B1443CFE66E8125F6B4C19C3089"
+						},
+						{
+							"ItemDefinition": "1624541849340FA32BDCC3A8A79CE96E"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -1250,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710684079119079,
+						"w": 0.70710672158189936
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4900,
+						"y": -400,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6600,
+						"y": -400,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 5800,
+						"y": 7.0712890625,
+						"z": 7.071044921875
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710666197724603,
+						"w": 0.70710690039582913
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_NSCreativeFireSmall01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -380.796875,
+						"z": 1092.045654296875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"SpawnRate": 1,
+					"Scale": 1,
+					"Color":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_NSCreativeSmoke01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -430.796875,
+						"z": 1092.045654296875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.13052649731255292,
+						"w": 0.9914448212075726
+					}
+				},
+				"properties":
+				{
+					"SpawnRate": 1,
+					"Scale": 1,
+					"Color":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCylinderA4x4",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5400,
+						"y": -3800,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCylinderA4x4",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6100,
+						"y": -3850,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCylinderA4x4",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 6100,
+						"y": -3100,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCylinderA4x4",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5400,
+						"y": -3050,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 4.25
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -3230.796875,
+						"z": -7.9543609619140625
+					},
+					"rotation":
+					{
+						"x": 0.50000011920928966,
+						"y": -0.49999988079068214,
+						"z": 0.50000011920928977,
+						"w": 0.49999988079068203
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 2000,
+					"bShowLaunchCosmetics": true,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalLauncher6x6",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5450,
+						"y": -3442.9287109375,
+						"z": -492.928955078125
+					},
+					"rotation":
+					{
+						"x": 0.38268336511216505,
+						"y": 0,
+						"z": 0,
+						"w": 0.92387956036835739
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 5450,
+						"y": -3450,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -3800,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710666197724603,
+						"w": 0.70710690039582913
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -3500,
+						"z": 1050
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710666197724603,
+						"w": 0.70710690039582913
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 30,
+					"PickupRespawnTime": 120,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "F323F86E4841627C5922B6874F33DFD5"
+						},
+						{
+							"ItemDefinition": "334E5E8E444A78CB1A9FC8B54D9567A7"
+						},
+						{
+							"ItemDefinition": "EAFC0EB7484E50CA47273481AFC5F8B4"
+						},
+						{
+							"ItemDefinition": "A6CA3A394267C5247E093B80CE95B37F"
+						},
+						{
+							"ItemDefinition": "8F265B1443CFE66E8125F6B4C19C3089"
+						},
+						{
+							"ItemDefinition": "1624541849340FA32BDCC3A8A79CE96E"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 6100,
+						"y": -3450,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA1x1",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5700,
+						"y": -3530.796875,
+						"z": 942.045654296875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -700,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710666197724603,
+						"w": 0.70710690039582913
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 5450,
+						"y": -350,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 6100,
+						"y": -350,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 4.25
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -130.796875,
+						"z": -7.9543609619140625
+					},
+					"rotation":
+					{
+						"x": 0.50000011920928966,
+						"y": -0.49999988079068214,
+						"z": 0.50000011920928977,
+						"w": 0.49999988079068203
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 2000,
+					"bShowLaunchCosmetics": true,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA6x6",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5900,
+						"y": 600,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalLauncher6x6",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5450,
+						"y": -342.9287109375,
+						"z": -492.928955078125
+					},
+					"rotation":
+					{
+						"x": 0.38268336511216505,
+						"y": 0,
+						"z": 0,
+						"w": 0.92387956036835739
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_NSCreativeSmoke01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -3530.796875,
+						"z": 1092.045654296875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.13052649731255292,
+						"w": 0.9914448212075726
+					}
+				},
+				"properties":
+				{
+					"SpawnRate": 1,
+					"Scale": 1,
+					"Color":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 4,
+						"z": 3
+					},
+					"translation":
+					{
+						"x": 5800,
+						"y": -3092.9287109375,
+						"z": 7.071044921875
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710666197724603,
+						"w": 0.70710690039582913
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_NSCreativeFireSmall01",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -3480.796875,
+						"z": 1092.045654296875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"SpawnRate": 1,
+					"Scale": 1,
+					"Color":
+					{
+						"R": 1,
+						"G": 1,
+						"B": 1,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA4x4",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5500,
+						"y": 750,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeWeaponPad",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -3500,
+						"z": 1050
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"PickupInitialSpawnTime": 30,
+					"PickupRespawnTime": 120,
+					"bUseSyncGroup": false,
+					"SyncGroup": 0,
+					"Items": [
+						{
+							"ItemDefinition": "F323F86E4841627C5922B6874F33DFD5"
+						},
+						{
+							"ItemDefinition": "334E5E8E444A78CB1A9FC8B54D9567A7"
+						},
+						{
+							"ItemDefinition": "EAFC0EB7484E50CA47273481AFC5F8B4"
+						},
+						{
+							"ItemDefinition": "A6CA3A394267C5247E093B80CE95B37F"
+						},
+						{
+							"ItemDefinition": "8F265B1443CFE66E8125F6B4C19C3089"
+						},
+						{
+							"ItemDefinition": "1624541849340FA32BDCC3A8A79CE96E"
+						}
+					]
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA6x6",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 4300,
+						"y": -100,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5750,
+						"y": -2650,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710666197724603,
+						"w": 0.70710690039582913
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLBlockA4x4",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5100,
+						"y": 750,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLCylinderA4x4",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 5400,
+						"y": 50,
+						"z": 0
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			}
+		]
+	}
+}

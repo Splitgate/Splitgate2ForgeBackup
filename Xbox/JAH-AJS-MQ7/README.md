@@ -1,0 +1,10 @@
+## Halo Vibes 2    
+##### by Yuggatti  
+> Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
+
+## Details  
+Base Level: **(Creative) Empty Space *(Custom)***   
+Actor Count: **999**  
+Actor Groups: **65**    
+
+![Halo Vibes 2](Screenshot.jpg)

@@ -1,0 +1,10 @@
+## Lego FFA    
+##### by SuperSonic4066  
+> Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
+
+## Details  
+Base Level: **(Creative) Flat Earth *(Custom)***   
+Actor Count: **398**  
+Actor Groups: **70**    
+
+![Lego FFA](Screenshot.jpg)

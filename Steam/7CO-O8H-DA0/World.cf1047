@@ -1,0 +1,1304 @@
+{
+	"metaData":
+	{
+		"mapDataAssetName": "MapData_Creative_EmptySpace",
+		"bWasCustomized": true
+	},
+	"contents":
+	{
+		"customActorGroups": [],
+		"customActors": [
+			{
+				"descriptorAssetId": "AD_Volume_Unwalkable",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 5.5733494758605957,
+						"y": 1.9002320766448975,
+						"z": 1.4342714548110962
+					},
+					"translation":
+					{
+						"x": -350,
+						"y": -16950,
+						"z": 1650
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSSLCreativeWallA4x4",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -844.7498779296875,
+						"y": -17199.404296875,
+						"z": 1653.269775390625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": "MSD_Bronze",
+							"MaterialProperties":
+							{
+								"Type": "CC1047MaterialSwapDynamicSlotConfig_Generic",
+								"Value":
+								{
+									"EmissiveColor":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"EmissiveIntensity": 0,
+									"MeshBlend": 0,
+									"NormalIntensity": 1,
+									"PanX": 0,
+									"PanY": 0,
+									"PanZ": 0,
+									"RotationSides": 0,
+									"RotationTop": 0,
+									"Saturation": 1,
+									"Tiling": 1,
+									"Tint":
+									{
+										"R": 1,
+										"G": 1,
+										"B": 1,
+										"A": 1
+									},
+									"TopMetallicCoat": 0.5,
+									"TopRoughnessCoat": 0.5
+								}
+							}
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -277.8934326171875,
+						"y": -17131.9921875,
+						"z": 1650.3504638671875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -500,
+						"y": -12200,
+						"z": 1730
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 1
+					},
+					"bNotForPlayers": true,
+					"bNotForBots": false,
+					"Priority": 1,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -255.0540771484375,
+						"y": -17285.224609375,
+						"z": 1650.3504638671875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 12,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -445.3134765625,
+						"y": -17257.697265625,
+						"z": 1895.4918212890625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Unwalkable",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -287.0738525390625,
+						"y": -16637.75390625,
+						"z": 1591.879150390625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -550,
+						"y": -7750,
+						"z": 1730
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamID": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": true,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -444.64968872070312,
+						"y": -17196.130859375,
+						"z": 1665.2125244140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 14,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -445.31344604492188,
+						"y": -17241.798828125,
+						"z": 1871.2398681640625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -444.64968872070312,
+						"y": -17192.060546875,
+						"z": 1654.422119140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 21,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -445.31341552734375,
+						"y": -17244.15625,
+						"z": 1873.0521240234375
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 35.75,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -1050,
+						"y": -17300,
+						"z": 1600
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSSLCreativeWallA4x4",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -845.41363525390625,
+						"y": -17299.404296875,
+						"z": 1650.2476806640625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 19,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -139.92781066894531,
+						"y": -17698.134765625,
+						"z": 1922.5391845703125
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 20,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -445.31344604492188,
+						"y": -17293.384765625,
+						"z": 1794.364501953125
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Unwalkable",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 16.862880706787109,
+						"y": 1.2243545055389404,
+						"z": 2.8930141925811768
+					},
+					"translation":
+					{
+						"x": -400,
+						"y": -16369.8369140625,
+						"z": 1704.0361328125
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Unwalkable",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 2.1565399169921875,
+						"y": 1.4275205135345459,
+						"z": 7.0899477005004883
+					},
+					"translation":
+					{
+						"x": -400,
+						"y": -17400,
+						"z": 1700
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -381.76181030273438,
+						"y": -17167.68359375,
+						"z": 1650.3504638671875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SSLFloorThinA8x8",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -300,
+						"y": -3950,
+						"z": 1550
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"OverriddenMaterialSlots": [
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						},
+						{
+							"MaterialOverride": null,
+							"MaterialProperties": null
+						}
+					],
+					"MaterialColor":
+					{
+						"R": 0.83879899978637695,
+						"G": 0.83879899978637695,
+						"B": 0.83879899978637695,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 17,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -292.02902221679688,
+						"y": -17692.72265625,
+						"z": 2004.2352294921875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 23,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -300,
+						"y": -17300,
+						"z": 1750
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 18,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -204.95954895019531,
+						"y": -17695.326171875,
+						"z": 1973.312744140625
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Unwalkable",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 7.0114741325378418,
+						"y": 5.1854896545410156,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -300,
+						"y": -17150,
+						"z": 2100
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Unwalkable",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 24.68682861328125,
+						"y": 0.6020653247833252,
+						"z": 8.1643314361572266
+					},
+					"translation":
+					{
+						"x": -350,
+						"y": -16650,
+						"z": 1650
+					},
+					"rotation":
+					{
+						"x": 0.0013778887075807668,
+						"y": -0.0016649339635334166,
+						"z": 2.2940991793547195e-06,
+						"w": 0.99999766470344509
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 16,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -358.75253295898438,
+						"y": -17686.853515625,
+						"z": 2021.438232421875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Unwalkable",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1.3880085945129395,
+						"y": 5.0514631271362305,
+						"z": 7.8186745643615723
+					},
+					"translation":
+					{
+						"x": -150,
+						"y": -17150,
+						"z": 1650
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 10,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -360.21151733398438,
+						"y": -17250.228515625,
+						"z": 1650.3504638671875
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 13,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": -445.31344604492188,
+						"y": -17288.53125,
+						"z": 1876.950927734375
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_Volume_Blocking",
+				"overrideLabel": "",
+				"labelIndex": 22,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					},
+					"translation":
+					{
+						"x": 436.45285034179688,
+						"y": -16906.416015625,
+						"z": 1967.3167724609375
+					},
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					}
+				},
+				"properties":
+				{
+					"VolumeSetup":
+					{
+						"Shape": "Box"
+					},
+					"bHasPlayerCollision": true,
+					"bHasBulletCollision": false,
+					"bHasPhysicsCollision": false,
+					"bHasPortalGunCollision": false,
+					"bHasPingCollision": false
+				}
+			}
+		]
+	}
+}

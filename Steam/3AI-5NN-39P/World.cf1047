@@ -1,0 +1,1913 @@
+{
+	"metaData":
+	{
+		"mapDataAssetName": "MapData_Creative_Simulation",
+		"bWasCustomized": true
+	},
+	"contents":
+	{
+		"customActorGroups": [
+			{
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			},
+			{
+				"overrideLabel": "",
+				"labelIndex": 9,
+				"bVisibleWhenEditing": true,
+				"bLocked": false
+			}
+		],
+		"customActors": [
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -5.9604517023521336e-08,
+						"y": 1.8314659639568626e-07,
+						"z": 0.99999999999975575,
+						"w": 6.7154434200989045e-07
+					},
+					"translation":
+					{
+						"x": 1050,
+						"y": 0,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.92387952002932461,
+						"w": 0.38268346249921048
+					},
+					"translation":
+					{
+						"x": 2000,
+						"y": 2000,
+						"z": 180
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamId": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710648316325575,
+						"w": 0.70710707920971383
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2800,
+						"z": 180
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamId": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalFloor16x16",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"translation":
+					{
+						"x": -800,
+						"y": -800,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.38268306858655438,
+						"w": 0.92387968319320568
+					},
+					"translation":
+					{
+						"x": -2050,
+						"y": -2051.21923828125,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 8.75,
+						"z": 6.75
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710696000046247,
+						"w": 0.7071066023725876
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2900,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 8.75,
+						"z": 6.75
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativeBlock1x1",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 4.3711388347970205e-08,
+						"y": 0.99999999999999789,
+						"z": 4.3711388347970212e-08,
+						"w": 1.9106854705178051e-15
+					},
+					"translation":
+					{
+						"x": 3050,
+						"y": 800,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 61.5,
+						"y": 24.5,
+						"z": 1.5
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativeGlitchTopper",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.7071065129656019,
+						"w": 0.70710704940739155
+					},
+					"translation":
+					{
+						"x": 2900,
+						"y": 1271.9300537109375,
+						"z": 2300
+					},
+					"scale3D":
+					{
+						"x": 25.5,
+						"y": 21.25,
+						"z": 24.25
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710648316325575,
+						"w": 0.70710707920971383
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -2900,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 8.75,
+						"z": 6.75
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"translation":
+					{
+						"x": -2900,
+						"y": 0,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 8.75,
+						"z": 6.75
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 5,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 8.7357465103474285e-08,
+						"y": 1.716510553483325e-07,
+						"z": 0.70710648316324243,
+						"w": 0.70710707920970062
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": -1050,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativeBlock1x1",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -4.3711388347970205e-08,
+						"y": 0.99999999999999789,
+						"z": -4.3711388347970212e-08,
+						"w": 1.9106854705178051e-15
+					},
+					"translation":
+					{
+						"x": 3050,
+						"y": -3250,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 61.5,
+						"y": 24.5,
+						"z": 1.5
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.92387952002932461,
+						"w": 0.38268346249921048
+					},
+					"translation":
+					{
+						"x": 2051.21923828125,
+						"y": -2051.21923828125,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 8.75,
+						"z": 6.75
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 1.2515463000834988e-07,
+						"y": -1.4639555271309147e-07,
+						"z": -0.92387952002930751,
+						"w": 0.3826834624992031
+					},
+					"translation":
+					{
+						"x": 750,
+						"y": 750,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativeGlitchTopper",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.92387952002932461,
+						"w": 0.38268346249921048
+					},
+					"translation":
+					{
+						"x": -1150,
+						"y": -2950,
+						"z": 2300
+					},
+					"scale3D":
+					{
+						"x": 25.5,
+						"y": 21.25,
+						"z": 24.25
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativeGlitchTopper",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					},
+					"translation":
+					{
+						"x": 1250,
+						"y": -2900,
+						"z": 2300
+					},
+					"scale3D":
+					{
+						"x": 25.5,
+						"y": 21.25,
+						"z": 24.25
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 8,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.38268336511216505,
+						"w": 0.92387956036835739
+					},
+					"translation":
+					{
+						"x": -2050,
+						"y": 2050,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 8.75,
+						"z": 6.75
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.92387952002932461,
+						"w": 0.38268346249921048
+					},
+					"translation":
+					{
+						"x": 2051.21923828125,
+						"y": 2050,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 8.75,
+						"z": 6.75
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710696000046247,
+						"w": 0.7071066023725876
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 2800,
+						"z": 180
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamId": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": 2,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.999999999999999,
+						"w": 4.3711388347970258e-08
+					},
+					"translation":
+					{
+						"x": 2900,
+						"y": 0,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 8.75,
+						"z": 6.75
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": false,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": true
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalWall8x4",
+				"overrideLabel": "",
+				"labelIndex": 5,
+				"groupIndex": 7,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.92387967265650173,
+						"w": 0.38268309402443562
+					},
+					"translation":
+					{
+						"x": 3253.30078125,
+						"y": 989.33984375,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 4,
+						"y": 1,
+						"z": 5.5
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.38268375902477214,
+						"w": 0.9238793972043482
+					},
+					"translation":
+					{
+						"x": -2000,
+						"y": 2000,
+						"z": 180
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamId": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalWall8x4",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 7,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.99999999999968725,
+						"w": 7.9075363152445342e-07
+					},
+					"translation":
+					{
+						"x": 1600,
+						"y": 3000,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 4,
+						"y": 1,
+						"z": 5.5
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativeGlitchTopper",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710648316325575,
+						"w": 0.70710707920971383
+					},
+					"translation":
+					{
+						"x": -2900,
+						"y": -1273.6544189453125,
+						"z": 2300
+					},
+					"scale3D":
+					{
+						"x": 25.5,
+						"y": 21.25,
+						"z": 24.25
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalWall8x4",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 7,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.70710648316325575,
+						"w": 0.70710707920971383
+					},
+					"translation":
+					{
+						"x": -3000,
+						"y": 1600,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 4,
+						"y": 1,
+						"z": 5.5
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": 8,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.38268375902477214,
+						"w": 0.9238793972043482
+					},
+					"translation":
+					{
+						"x": -734.92425537109375,
+						"y": 734.92413330078125,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativeGlitchTopper",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.38268336511216511,
+						"w": 0.92387956036835739
+					},
+					"translation":
+					{
+						"x": -2950,
+						"y": 1150,
+						"z": 2300
+					},
+					"scale3D":
+					{
+						"x": 25.5,
+						"y": 21.25,
+						"z": 24.25
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.38268336511216511,
+						"w": 0.92387956036835739
+					},
+					"translation":
+					{
+						"x": -2000,
+						"y": -2000,
+						"z": 180
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamId": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.92387938666762837,
+						"w": 0.3826837844626379
+					},
+					"translation":
+					{
+						"x": 2000,
+						"y": -2000,
+						"z": 180
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamId": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": 6,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.38268346249921037,
+						"w": 0.92387952002932461
+					},
+					"translation":
+					{
+						"x": -734.9241943359375,
+						"y": -734.92425537109375,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalWall8x4",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 7,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"translation":
+					{
+						"x": -1600,
+						"y": -3000,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 4,
+						"y": 1,
+						"z": 5.5
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalWall8x4",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": 7,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.70710707920971372,
+						"w": 0.70710648316325586
+					},
+					"translation":
+					{
+						"x": 3000,
+						"y": -1600,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 4,
+						"y": 1,
+						"z": 5.5
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_PortalWallCreative",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0.70710678118651271,
+						"y": -2.2197246474326388e-07,
+						"z": 0.70710678118651282,
+						"w": 2.2197246474326385e-07
+					},
+					"translation":
+					{
+						"x": -699.99993896484375,
+						"y": 0,
+						"z": 90
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 14,
+						"z": 14
+					}
+				},
+				"properties":
+				{
+					"bLaunchPortalWall": true,
+					"LaunchSpeed": 1000,
+					"bShowLaunchCosmetics": false,
+					"AddFrame": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativeGlitchTopper",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.92387952002932461,
+						"w": 0.38268346249921048
+					},
+					"translation":
+					{
+						"x": 2950,
+						"y": -1150,
+						"z": 2300
+					},
+					"scale3D":
+					{
+						"x": 25.5,
+						"y": 21.25,
+						"z": 24.25
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 5,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 1.7165099887102161e-07,
+						"y": -8.735737969256482e-08,
+						"z": -0.70710696000044893,
+						"w": 0.70710660237257461
+					},
+					"translation":
+					{
+						"x": 0,
+						"y": 1050,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 0,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"translation":
+					{
+						"x": -2800,
+						"y": 0,
+						"z": 180
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamId": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalWall8x4",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": 7,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": -0,
+						"z": 0.38268380990050282,
+						"w": 0.92387937613090787
+					},
+					"translation":
+					{
+						"x": 990.5592041015625,
+						"y": -3253.30078125,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 4,
+						"y": 1,
+						"z": 5.5
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativeBlock1x1",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0.7071069003958288,
+						"y": 0.70710666197724492,
+						"z": -3.0908613277087441e-08,
+						"w": 3.0908623698694533e-08
+					},
+					"translation":
+					{
+						"x": 3250,
+						"y": 3050,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 61.5,
+						"y": 24.5,
+						"z": 1.5
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativeGlitchTopper",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"translation":
+					{
+						"x": -1295.58447265625,
+						"y": 2898.275634765625,
+						"z": 2300
+					},
+					"scale3D":
+					{
+						"x": 25.5,
+						"y": 21.25,
+						"z": 24.25
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 2,
+				"groupIndex": 0,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0,
+						"y": 0,
+						"z": 0,
+						"w": 1
+					},
+					"translation":
+					{
+						"x": -1050,
+						"y": 0,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalWall8x4",
+				"overrideLabel": "",
+				"labelIndex": 6,
+				"groupIndex": 7,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.92387938666762837,
+						"w": 0.3826837844626379
+					},
+					"translation":
+					{
+						"x": -989.33984375,
+						"y": 3252.08154296875,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 4,
+						"y": 1,
+						"z": 5.5
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativePlayerStart",
+				"overrideLabel": "",
+				"labelIndex": 1,
+				"groupIndex": -1,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.999999999999999,
+						"w": 4.3711388347970258e-08
+					},
+					"translation":
+					{
+						"x": 2800,
+						"y": 0,
+						"z": 180
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"Team":
+					{
+						"TeamId": 255
+					},
+					"bNotForPlayers": false,
+					"bNotForBots": false,
+					"Priority": 0,
+					"InitialPriority": 0,
+					"SpawnType": "InitialAndRespawn",
+					"bStatic": false
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativePortalWall8x4",
+				"overrideLabel": "",
+				"labelIndex": 4,
+				"groupIndex": 7,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.38268336511216505,
+						"w": 0.92387956036835739
+					},
+					"translation":
+					{
+						"x": -3252.08154296875,
+						"y": -990.55908203125,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 4,
+						"y": 1,
+						"z": 5.5
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_CreativeJumpPad",
+				"overrideLabel": "",
+				"labelIndex": 7,
+				"groupIndex": 8,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 1.5019803661722214e-08,
+						"y": 1.9201493199167187e-07,
+						"z": 0.92387911994389393,
+						"w": 0.38268442838931715
+					},
+					"translation":
+					{
+						"x": 750,
+						"y": -750,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"properties":
+				{
+					"bCorrectPosition": false,
+					"RelativeDestination":
+					{
+						"X": 1000,
+						"Y": 0,
+						"Z": 1000
+					},
+					"ArcPercentage": 0.5
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativeGlitchTopper",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 4,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": -0,
+						"y": 0,
+						"z": -0.38268336511216505,
+						"w": 0.92387956036835739
+					},
+					"translation":
+					{
+						"x": 1150,
+						"y": 2950,
+						"z": 2300
+					},
+					"scale3D":
+					{
+						"x": 25.5,
+						"y": 21.25,
+						"z": 24.25
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			},
+			{
+				"descriptorAssetId": "AD_SMSIMCreativeBlock1x1",
+				"overrideLabel": "",
+				"labelIndex": 3,
+				"groupIndex": 3,
+				"bVisibleWhenEditing": true,
+				"bLocked": false,
+				"transform":
+				{
+					"rotation":
+					{
+						"x": 0.70710672158189869,
+						"y": -0.70710684079118991,
+						"z": -3.0908620264248253e-08,
+						"w": 3.0908616711534515e-08
+					},
+					"translation":
+					{
+						"x": -800,
+						"y": 3050,
+						"z": 100
+					},
+					"scale3D":
+					{
+						"x": 61.5,
+						"y": 24.5,
+						"z": 1.5
+					}
+				},
+				"properties":
+				{
+					"MaterialColor":
+					{
+						"R": 0.099900998175144196,
+						"G": 0.075147002935409546,
+						"B": 0.63300001621246338,
+						"A": 1
+					}
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,10 @@
+## World of portals    
+##### by BigSLEEPYx  
+> Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
+
+## Details  
+Base Level: **(Creative) Empty Space *(Custom)***   
+Actor Count: **1300**  
+Actor Groups: **227**    
+
+![World of portals](Screenshot.jpg)

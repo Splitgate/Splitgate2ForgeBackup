@@ -1,0 +1,10 @@
+## Mix-A-Wrap 2026 Spec    
+##### by splendid-space37  
+> Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
+
+## Details  
+Base Level: **(Creative) Empty Space *(Custom)***   
+Actor Count: **145**  
+Actor Groups: **2**    
+
+![Mix-A-Wrap 2026 Spec](Screenshot.jpg)
