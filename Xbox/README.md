@@ -1,7 +1,5 @@
 ## Map Directory
 
-## Details
-
 All Xbox Live Forge maps.
 
 <details>    

@@ -1,7 +1,5 @@
 ## Map Directory
 
-## Details
-
 All PlayStation Network Forge maps.
 
 <details>    
