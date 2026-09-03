@@ -1,4 +1,4 @@
-## MAGA Mega Fagtory    
+## **** Mega ***tory    
 ##### Author: JP Raffarin Gaming  
 > Wrong or want a description? Create an issue [here](https://github.com/Splitgate/Splitgate2ForgeBackup/issues).   
 
@@ -7,4 +7,4 @@ Base Level: **(Creative) Flat Earth *(Custom)***
 Actor Count: **4235**  
 Actor Groups: **45**    
 
-![MAGA Mega Fagtory](Screenshot.jpg)
+![**** Mega ***tory](Screenshot.jpg)
