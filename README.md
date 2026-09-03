@@ -20,6 +20,9 @@ This URL path breaks down to `/ugc/(Namespace)/(Group)/(Platform)/(FileId)/(Save
 
 ## Map Directory
 
+[PlayStation Network (1322 maps)](/Playstation/README.md)  
+[Xbox Live (1445 maps)](/Xbox/README.md)
+
 <details>    
 <summary>Steam (2228 maps)</summary>   
 
@@ -2323,14 +2326,4 @@ This URL path breaks down to `/ugc/(Namespace)/(Group)/(Platform)/(FileId)/(Save
 |  [77R-AP8-B5I](Epic/77R-AP8-B5I)  |  2v2  |  CREATOR: Aidangod18  |  ![2v2](Epic/77R-AP8-B5I/Screenshot.jpg)  |
 |  [B72-5GW-BB7](Epic/B72-5GW-BB7)  |  лёха и валера  |  CREATOR: Jumster_k26  |  ![лёха и валера](Epic/B72-5GW-BB7/Screenshot.jpg)  |
 |  [F0V-KAQ-J7Y](Epic/F0V-KAQ-J7Y)  |  my world  |  CREATOR: ᵘʳ ᶜʰᵒᵖᵖᵉᵈ ツ  |  ![my world](Epic/F0V-KAQ-J7Y/Screenshot.jpg)  |
-</details>
-
-<details>    
-<summary>PlayStation Network (1322 maps)</summary>   
-[Visit Here](PlayStation/README.md)
-</details>
-
-<details>    
-<summary>Xbox Live (1445 maps)</summary>   
-[Visit Here](Xbox/README.md)
 </details>
