@@ -28,7 +28,6 @@ This URL path breaks down to `/ugc/(Namespace)/(Group)/(Platform)/(FileId)/(Save
 
 | Mnemonic       | Name           |  Author        |  Preview       |   
 | :------------- | :------------- | :------------- | :------------- |   
-|  [SEY-FBN-HWU](Steam/SEY-FBN-HWU)  |  **** Mega ***tory  |  JP Raffarin Gaming  |  ![**** Mega ***tory](Steam/SEY-FBN-HWU/Screenshot.jpg)  |
 |  [39U-ZGI-GGT](Steam/39U-ZGI-GGT)  |  SGC Drift A1  |  Ryv  |  ![SGC Drift A1](Steam/39U-ZGI-GGT/Screenshot.jpg)  |
 |  [X3H-2WY-AM5](Steam/X3H-2WY-AM5)  |  DG TEST  |  Deathground  |  ![DG TEST](Steam/X3H-2WY-AM5/Screenshot.jpg)  |
 |  [S25-P5I-Y5I](Steam/S25-P5I-Y5I)  |  wrath  |  baldking233  |  ![wrath](Steam/S25-P5I-Y5I/Screenshot.jpg)  |
