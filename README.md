@@ -16,6 +16,8 @@ For example (UGC):
 mapped to:      
 `https://content-prod.maverick-global.prod.1047games.com/ugc/Rooster/MapCreator_Published/Epic/04548be5-c993-449c-95b1-b75f98706cb6/cd1d3268-ce17-4583-a9f9-2cbede4b6ee9`
 
+This URL path is mapped by `/ugc/(Namespace)/(Group)/(Platform)/(FileId)/(SaveId)` with the end SaveId being the archive itself.
+
 ## Map Directory
 
 <details>    
