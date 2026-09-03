@@ -24,7 +24,7 @@ This URL path breaks down to `/ugc/(Namespace)/(Group)/(Platform)/(FileId)/(Save
 [Xbox Live (1445 maps)](/Xbox/README.md)
 
 <details>    
-<summary>Steam (2228 maps)</summary>   
+<summary>Steam (2248 maps)</summary>   
 
 | Mnemonic       | Name           |  Author        |  Preview       |   
 | :------------- | :------------- | :------------- | :------------- |   
